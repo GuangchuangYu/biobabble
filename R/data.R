@@ -4,7 +4,7 @@
 #'
 #'
 #' @name DataSet
-#' @aliases lecture
+#' @aliases lecture mooncake
 #' @docType data
 #' @keywords datasets
 NULL

@@ -4,6 +4,7 @@
 \name{DataSet}
 \alias{DataSet}
 \alias{lecture}
+\alias{mooncake}
 \title{Datasets}
 \description{
 datasets for plotting
