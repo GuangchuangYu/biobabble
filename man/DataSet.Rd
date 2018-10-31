@@ -6,6 +6,7 @@
 \alias{lecture}
 \alias{mooncake}
 \alias{pumpkin}
+\alias{apple}
 \title{Datasets}
 \description{
 datasets for plotting
