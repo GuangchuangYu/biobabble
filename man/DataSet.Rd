@@ -7,6 +7,7 @@
 \alias{mooncake}
 \alias{pumpkin}
 \alias{apple}
+\alias{snowman}
 \title{Datasets}
 \description{
 datasets for plotting
