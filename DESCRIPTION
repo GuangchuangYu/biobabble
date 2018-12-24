@@ -1,6 +1,6 @@
 Package: biobabble
 Title: Datasets for Biobabble
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("Guangchuang", "Yu", email = "guangchuangyu@gmail.com", role = c("aut", "cre"))
 Description: Datasets for weekly plot of WeChat subscription account 'biobabble'. 
 Depends: R (>= 3.4.0)

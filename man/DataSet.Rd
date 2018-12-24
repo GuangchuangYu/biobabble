@@ -8,6 +8,7 @@
 \alias{pumpkin}
 \alias{apple}
 \alias{snowman}
+\alias{santa}
 \title{Datasets}
 \description{
 datasets for plotting
