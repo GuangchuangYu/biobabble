@@ -32,3 +32,9 @@ clean:
 	$(RM) -r $(PKGNAME).Rcheck/
 
 
+html:
+	Rscript -e 'rmarkdown::render("README.md", encoding="UTF-8")'; \
+	mv README.html docs/index.html;\
+	git add .; \
+	git commit -m 'update mp-post index'; \
+	git push -u origin master

@@ -1,2 +1,6 @@
 Makefile
 biobabble.Rproj
+README.md
+docs
+sample_post*
+mp.md

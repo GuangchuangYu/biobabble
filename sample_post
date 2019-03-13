@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+
+import re
+import random
+
+fh = open("README.md", encoding="UTF-8")
+y = fh.readlines()
+y2 = list(filter(lambda x: re.search(r'weixin', x), y))
+y3 = list(filter(lambda x: re.search(r'^\+', x), y2))
+res = random.sample(y3, 8)
+res.sort(key = len)
+
+print("----")
+print('**往期精彩**')
+print(*res, sep="")
