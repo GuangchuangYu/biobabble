@@ -20,9 +20,12 @@
 ##' bplot(mooncake)
 ##' @author Guangchuang Yu
 bplot <- function(data, title="") {
+    caption_file <- system.file("extdata/caption.txt", package="biobabble")
+    caption <- readLines(caption_file, encoding="UTF-8")
+    caption <- gsub("\\\\n", "\n", caption)
     ggplot(data, aes_(x = ~x, y = ~y)) + geom_point(size=.8) + scale_y_reverse() + xlab(NULL) + ylab(NULL) +
         ## geom_image(image="http://guangchuangyu.github.io/blog_images/biobabble.jpg", x=550, y=-180, size=.1, asp=1.5) +
-        labs(title=title, caption="学ggplot2画图\n请关注公众号\nbiobabble") +
+        labs(title=title, caption=caption) +
         theme(plot.caption=element_text(hjust=0))
 }
 
