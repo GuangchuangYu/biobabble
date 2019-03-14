@@ -7,8 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-03-12 -->
-
+<!-- 更新于2019-03-14 -->
 
 
 
@@ -16,7 +15,6 @@ output:
 
 
 > PS: [告҉别҉4҉0҉4҉](https://mp.weixin.qq.com/s/HxoT0zsTmnn_sJYYg2D2cQ)，推荐使用[lantern](https://github.com/getlantern/lantern-binaries)，使用我的邀请码`29MRV8`，可以获得额外三个月的专业版。
-
 
 ## ChIPseeker
 
@@ -295,7 +293,7 @@ output:
 + [我在MSnbase里做了什么？](http://mp.weixin.qq.com/s/9pS9w7tHhlV8zlqxd8jImA)
 + [无中生有windows版R包](http://mp.weixin.qq.com/s/VoWEamFLK6ktiMOdDj0bEA)
 + [你所不知道的，R的N种打开方式](http://mp.weixin.qq.com/s/BsEm76Eq9_tbw3myobD_SA)
-+ [R，python喊你回家吃饭啦](https://mp.weixin.qq.com/s/VbMq3ZKMdn0E3wauC4l_hg)
++ [radian: 用python写的，号称21世纪的R终端](https://mp.weixin.qq.com/s/Kc_01u_4PmOcdJGLjNoeLA)
 + [VSCode里愉快地使用R](http://mp.weixin.qq.com/s/oSZlH-HZQ3uPKSmNmD_5Yg)
 + [R kernel in Jupyter notebook 3](http://mp.weixin.qq.com/s/gabXNyiCPHfQwx7L4tsJVQ)
 + [R的全新IDE](https://mp.weixin.qq.com/s/qCSOMHCs_7x-3uuQR8t9RA)
@@ -370,7 +368,7 @@ output:
 
 ### ggplot2扩展
 
-+ [ggupset -- ggplot2版本的upset plot](https://mp.weixin.qq.com/s/N2Qwd8NAkmXEqBSCyNLaOw)
++ [ggupset -- ggplot2版本的upset plot](https://mp.weixin.qq.com/s/1flaDEd3WzSNHpXZ228g6g)
 + [按地理位置分面](http://mp.weixin.qq.com/s/6Cqes8F4UF2Zsi722E3WvA)
 + [ggplot2分面之像素艺术](http://mp.weixin.qq.com/s/uK-9ql7XXe_RlM2K24hyDw)
 + [ggridges：一种波涛汹涌，哦不对，是山峰叠峦的可视化方式](https://mp.weixin.qq.com/s/0y1hS0VM0o1fyb9MCxGWow)
@@ -601,6 +599,7 @@ output:
 + [用ggplot写一个「囧」字吧](https://mp.weixin.qq.com/s/jQpys0thAIMx1HGMeKwMqQ)
 + [你好，2019元素周期表年](https://mp.weixin.qq.com/s/Ah89ibgMkxG1byT7B6zw-Q)
 + [小海龟告诉你【啥是佩奇】](https://mp.weixin.qq.com/s/XHPWPkvyo9CNVOFDwnEcPg)
++ [3D版邪恶的曲线](http://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
 
 #### biobabble节日问候
 
@@ -637,9 +636,8 @@ output:
 + [IBW2011](http://mp.weixin.qq.com/s/eQGKlUY9ncdirAXrIwDY-g)
 + [自动玩微信小游戏跳一跳](http://mp.weixin.qq.com/s/xSG59fWC201Kx5Bx9i3KmQ)
 + [玩个游戏，了解你那祖传的基因](https://mp.weixin.qq.com/s/cFcztsKccFPX4SXowU23Eg)
-+ [3D版邪恶的曲线](http://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
-+ [8天假期应该这样度过！](http://mp.weixin.qq.com/s/s-itSHOzq_PF2ywgsR2GAw)
 + [诺贝尔奖游戏](http://mp.weixin.qq.com/s/Gw5REFxJ2ZthBtScm15Jcw)
++ [8天假期应该这样度过！](http://mp.weixin.qq.com/s/s-itSHOzq_PF2ywgsR2GAw)
 + [老板，我需要一部iPhone X来做科研！](https://mp.weixin.qq.com/s/4I08BkntXkGArOy4gscchg)
 + [一千个伤心的理由](http://mp.weixin.qq.com/s/UblSRGUOhNYTEMPc_mSdsg)
 + [轮到相思没处辞，眉间露一丝](http://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
@@ -650,4 +648,5 @@ output:
 + [王八拳编程及其它](https://mp.weixin.qq.com/s/mK3_rX9VNflgh1w0JaYuxg)
 + [宋词-词频](https://mp.weixin.qq.com/s/H6YM6iYRWL2qVW5PneSxDw)
 + [你是否还在用那些该退出历史舞台的软件？](https://mp.weixin.qq.com/s/vMK_b69OHir2v2p2sSfWaA)
++ [学会生信，只需三天！你是最棒的！(手动滑稽)](https://mp.weixin.qq.com/s/8K54MVL9nsdvf6gHr_-c7A)
 
