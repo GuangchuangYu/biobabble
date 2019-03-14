@@ -18,7 +18,7 @@ output:
 
 ## ChIPseeker
 
-[<img src="https://guangchuangyu.github.io/blog_images/biobabble-qrcode-1.png" alt="扫码关注biobabble公众号" align="right" height="200">](https://guangchuangyu.github.io/blog_images/biobabble-qrcode-1.png)
+[<img src="http://guangchuangyu.github.io/blog_images/biobabble-qrcode-1.png" alt="扫码关注biobabble公众号" align="right" height="200">](https://guangchuangyu.github.io/blog_images/biobabble-qrcode-1.png)
 
 + [CS0: ChIPseq从入门到放弃](https://mp.weixin.qq.com/s/lFi1m7k-9t6nD0SER1r1hw)
 + [CS1: ChIPseq简介](http://mp.weixin.qq.com/s/vgXrscsUkfYdC5qt_PUNlw)
@@ -624,7 +624,7 @@ output:
 
 ## MISC
 
-[<img src="https://guangchuangyu.github.io/blog_images/biobabble-qrcode-2.png" alt="扫码关注biobabble公众号" align="right" height="200">](https://guangchuangyu.github.io/blog_images/biobabble-qrcode-2.png)
+[<img src="http://guangchuangyu.github.io/blog_images/biobabble-qrcode-2.png" alt="扫码关注biobabble公众号" align="right" height="200">](https://guangchuangyu.github.io/blog_images/biobabble-qrcode-2.png)
 
 
 + [how to bug author](http://mp.weixin.qq.com/s/fvCsdNVl87PtKuGXmcikDw)
