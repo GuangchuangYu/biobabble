@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-03-14 -->
+<!-- 更新于2019-03-15 -->
 
 
 
@@ -433,7 +433,7 @@ output:
 
 ## 神器系列
 
-
++ [如何获取文献](https://mp.weixin.qq.com/s/xq0uaaeUWJhTw7GS7s8hlg)
 + [在这个看脸（哦不对，看图）的时代，做科研的你怎么能错过这个帮你找一张漂亮脸蛋的神器！](http://mp.weixin.qq.com/s/7S_Iw331JRrAp7ZnDScf4A)
 + [什么？听说你有文章却不知道该往那里投！](http://mp.weixin.qq.com/s/tS_rUyPZfcB7CUfR_2LysA)
 + [听说你也在读文献](https://mp.weixin.qq.com/s/AGQn7Lfn_nHHrtVQyJSTmg)
