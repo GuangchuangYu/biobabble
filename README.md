@@ -1,5 +1,5 @@
 ---
-title: "`biobabble`公众号索引"
+title: "biobabble公众号索引"
 author: "Y叔叔"
 output:
   prettydoc::html_pretty:
@@ -408,7 +408,7 @@ output:
 + [秒杀一切手工画通路的素材](https://mp.weixin.qq.com/s/yYfM0FDBGSg9RpRwzXkbYQ)
 + [我把Nature的Figure画成了蒙娜丽莎](https://mp.weixin.qq.com/s/Gggtmn5SgRdXU7s9PKIo9Q)
 + [SIR Model of Epidemics](https://mp.weixin.qq.com/s/jxFxiiHY_cA0viq_ywK0DQ)
-
++ [曾老湿最新私已：GATK4实战教程](https://mp.weixin.qq.com/s/6HMvleAnJKuCcR_yWr5MsA)
 
 
 ## ROSALIND

@@ -9,6 +9,7 @@
 \alias{apple}
 \alias{snowman}
 \alias{santa}
+\alias{ninja}
 \title{Datasets}
 \description{
 datasets for plotting
