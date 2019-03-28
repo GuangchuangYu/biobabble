@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-03-25 -->
+<!-- 更新于2019-03-28 -->
 
 
 
@@ -311,7 +311,7 @@ output:
 + [如何用bioconductor进行注释](https://mp.weixin.qq.com/s/tT225Z1yiopUtXibwuuaJQ)
 + [Bioconductor的注释包太旧怎么办？自己做呀](https://mp.weixin.qq.com/s/GsLN0xPcZ7_4yfgPFzexCA)
 + [听说你画的图，线条不见了](https://mp.weixin.qq.com/s/-KUCY8AQAFIeFb4ja5psnA)
-
++ [欧式距离如何应对缺失值？](https://mp.weixin.qq.com/s/NZSfAVlWuJkuFsNDo_NMiw)
 
 
 ### Introduction to Scientific Programming and Simulation Using R
@@ -623,6 +623,7 @@ output:
 + [关爱女科学家](https://mp.weixin.qq.com/s/xC1KuYW5OPZ_UqanPE-hwA)
 + [clusterProfiler引用过千](https://mp.weixin.qq.com/s/tpe9h1mO8KImqOrfNvCEjw)
 + [R-3.6 -- set.seed](https://mp.weixin.qq.com/s/kmezZTCSa_F_Lx7f4a8ZTA)
++ [与导师的初次见面](https://mp.weixin.qq.com/s/zUvmSslH0PhMc5GuDDvMKA)
 
 ## MISC
 
