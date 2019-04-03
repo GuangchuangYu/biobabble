@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-03-28 -->
+<!-- 更新于2019-04-03 -->
 
 
 
@@ -341,7 +341,7 @@ output:
 + [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
 + [learn R wisdom with fortunes](https://mp.weixin.qq.com/s/PNvsou6CfQlM0hQ8LuT0OQ)
 + [画图？倒不如手绘吧！](https://mp.weixin.qq.com/s/xPIDevw6R_XDSaxi6W5gtA)
-
++ [我不会用illustrator，只会用ppt！](https://mp.weixin.qq.com/s/nHT3vkwNfQknr6CLF0cUDQ)
 
 
 ## ggplot2
@@ -600,6 +600,8 @@ output:
 + [你好，2019元素周期表年](https://mp.weixin.qq.com/s/Ah89ibgMkxG1byT7B6zw-Q)
 + [小海龟告诉你【啥是佩奇】](https://mp.weixin.qq.com/s/XHPWPkvyo9CNVOFDwnEcPg)
 + [3D版邪恶的曲线](https://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
++ [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
+
 
 #### biobabble节日问候
 
@@ -624,6 +626,9 @@ output:
 + [clusterProfiler引用过千](https://mp.weixin.qq.com/s/tpe9h1mO8KImqOrfNvCEjw)
 + [R-3.6 -- set.seed](https://mp.weixin.qq.com/s/kmezZTCSa_F_Lx7f4a8ZTA)
 + [与导师的初次见面](https://mp.weixin.qq.com/s/zUvmSslH0PhMc5GuDDvMKA)
++ [Linux下R出图转为PPT矢量图](https://mp.weixin.qq.com/s/8hiWaJmIJSmPYmJaZq0RPA)
++ [快上车，该学R了](https://mp.weixin.qq.com/s/3MTTrAREsUVb56zHGufL2A)
+
 
 ## MISC
 
@@ -647,9 +652,8 @@ output:
 + [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/T_xL4wvKDHiwiv3123Tukg)
 + [不为无益之事 何以遣有涯之生](https://mp.weixin.qq.com/s/lmGOvgdc-aFUBCjOGnbW1Q)
 + [你所在的地区因为版权问题播放不了音乐怎么破？](https://mp.weixin.qq.com/s/br1hIhhsaVE4a43wyV1rFA)
-+ [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
 + [王八拳编程及其它](https://mp.weixin.qq.com/s/mK3_rX9VNflgh1w0JaYuxg)
 + [宋词-词频](https://mp.weixin.qq.com/s/H6YM6iYRWL2qVW5PneSxDw)
 + [你是否还在用那些该退出历史舞台的软件？](https://mp.weixin.qq.com/s/vMK_b69OHir2v2p2sSfWaA)
 + [学会生信，只需三天！你是最棒的！(手动滑稽)](https://mp.weixin.qq.com/s/8K54MVL9nsdvf6gHr_-c7A)
-
++ [996.ICU](https://mp.weixin.qq.com/s/tOncegeP791rD2t9PthsFw)
