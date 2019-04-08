@@ -7,14 +7,13 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-04-03 -->
+<!-- 更新于2019-04-08 -->
 
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
 
 
-> PS: [告҉别҉4҉0҉4҉](https://mp.weixin.qq.com/s/HxoT0zsTmnn_sJYYg2D2cQ)，推荐使用[lantern](https://github.com/getlantern/lantern-binaries)，使用我的邀请码`29MRV8`，可以获得额外三个月的专业版。
 
 ## ChIPseeker
 
@@ -176,6 +175,7 @@ output:
 + [ggnetworx：让ggtree支持phylogenetic networks](https://mp.weixin.qq.com/s/YytLpKKkTqqpcrJJLFOhjg)
 + [ggtree买家秀](https://mp.weixin.qq.com/s/W9UI9doKKeq8YhbcA0N-_A)
 + [多个热图，多种配色，还要分开画图例？](https://mp.weixin.qq.com/s/ZZLeTeWX3TvXuHe5sICgRg)
++ [ggplot2 - 更改分面的相对宽度](https://mp.weixin.qq.com/s/72UHjAQTRXuHzoeWUc-ccA)
 
 
 ### 直播
@@ -628,7 +628,11 @@ output:
 + [与导师的初次见面](https://mp.weixin.qq.com/s/zUvmSslH0PhMc5GuDDvMKA)
 + [Linux下R出图转为PPT矢量图](https://mp.weixin.qq.com/s/8hiWaJmIJSmPYmJaZq0RPA)
 + [快上车，该学R了](https://mp.weixin.qq.com/s/3MTTrAREsUVb56zHGufL2A)
++ [相亲套路深](https://mp.weixin.qq.com/s/2InsDYabVHx0_VidrIDxag)
 
+#### 视频分享
+
++ [好山好水好穷B](https://mp.weixin.qq.com/s/1dAefyvOgyAc4INgYgVFdg)
 
 ## MISC
 
