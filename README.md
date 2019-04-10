@@ -7,11 +7,12 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-04-08 -->
+<!-- 更新于2019-04-10 -->
 
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
+
 
 
 
@@ -453,7 +454,7 @@ output:
 + [一图告诉你sci-hub有多美好！](https://mp.weixin.qq.com/s/1Y0peNiRjh8WmGO1BJxvOQ)
 + [Sci-Hub可用域名实时追踪](https://mp.weixin.qq.com/s/puPvCOQcOf7aG5ghY82XrQ)
 + [Kopernio: 快速一键下文献](https://mp.weixin.qq.com/s/IbfI3C8--soC2H9HzyZgAA)
-
++ [sci-hub合法的可能性](https://mp.weixin.qq.com/s/kN9kdOh1B1fYLytRtVlRqQ)
 
 
 ## 操作系统
@@ -629,10 +630,14 @@ output:
 + [Linux下R出图转为PPT矢量图](https://mp.weixin.qq.com/s/8hiWaJmIJSmPYmJaZq0RPA)
 + [快上车，该学R了](https://mp.weixin.qq.com/s/3MTTrAREsUVb56zHGufL2A)
 + [相亲套路深](https://mp.weixin.qq.com/s/2InsDYabVHx0_VidrIDxag)
++ [知道开头，猜不到结局](https://mp.weixin.qq.com/s/2KZBN2s7ImXfP-T4C8phFA)
++ [别人家的学生](https://mp.weixin.qq.com/s/VDiqo_TocpgmK0adzXeIgA)
+
 
 #### 视频分享
 
 + [好山好水好穷B](https://mp.weixin.qq.com/s/1dAefyvOgyAc4INgYgVFdg)
++ [别人家的教授](https://mp.weixin.qq.com/s/lkYY0U1yhTU9Ow7N9hBU7Q)
 
 ## MISC
 
