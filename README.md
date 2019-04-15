@@ -7,12 +7,11 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-04-10 -->
+<!-- 更新于2019-04-15 -->
 
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
-
 
 
 
@@ -52,6 +51,8 @@ output:
 + [msigdf + clusterProfiler全方位支持MSigDb](https://mp.weixin.qq.com/s/AamfRz0BUENCi_1P0P-Ruw)
 + [做学术终究是看脸...](https://mp.weixin.qq.com/s/aBjfWTLsZLcEI8nhnF2WoQ)
 + [富集分析事后丸：过滤数据](https://mp.weixin.qq.com/s/odA-xzI4lCMDmyZxtEMwFg)
++ [软件虽然好用，但没发在高影响因子的期刊上，给你们丢脸了！](https://mp.weixin.qq.com/s/F7z8r-5KssWV9YTV98tYxQ)
+
 
 ### GO
 
@@ -571,7 +572,9 @@ output:
 
 ## 公众号
 
++ [撒花，2万粉了](https://mp.weixin.qq.com/s/88ZbcemcaD9Z-7M_qQFiJA)
 + [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
++ [biobabble的作者们](https://mp.weixin.qq.com/s/B9V4BTYus0e_SLjhgRh6Sg)
 + [为什么要开这个公众号](https://mp.weixin.qq.com/s/f-c5Q63SY166ZGzYCsqthA)
 + [关于《关于转载》](https://mp.weixin.qq.com/s/JuMoFfgbNSM2KFQ74KVw0Q)
 + [公众号「biobabble」是什么意思？](https://mp.weixin.qq.com/s/wpk7gCW4oxgmPaGf4NSOBg)
@@ -586,7 +589,6 @@ output:
 + [这么巧啊，你也在研究那坨屎！](https://mp.weixin.qq.com/s/cX9Eliwpw5KaOMpof3LtWw)
 + [微信读书中阅读公众号](https://mp.weixin.qq.com/s/BegWCcI2s830eBp3zYgbWA)
 + [听说你找不到公众号的入口了！](https://mp.weixin.qq.com/s/u8-BP7SL--iQKIh149Y3LA)
-
 
 
 ### biobabble每周一图
