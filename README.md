@@ -7,8 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-04-24 -->
-
+<!-- 更新于2019-05-06 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -366,6 +365,7 @@ output:
 + [ggplot2 - 3.0.0版本的新功能](https://mp.weixin.qq.com/s/rj3JKkLM6wKWRG-BiTfq-w)
 + [ggplot label placement](https://mp.weixin.qq.com/s/6MMVsO22n9oKZNC7qC7g5A)
 + [图层中的统计量，你自己说的算！](https://mp.weixin.qq.com/s/yvfdIvtN7aNHDgdSNVCIRw)
++ [根号2的几何作图](https://mp.weixin.qq.com/s/jC4wfZI2TgZRiC2fS_s8PQ)
 
 ### ggplot2扩展
 
@@ -504,9 +504,7 @@ output:
 
 ## C++
 
-+ [Using Linked List to solve Josephus problem](https://mp.weixin.qq.com/s/x-uh7WPjYDFNsaNTGOOlqw)
-+ [Lucky Tickets](https://mp.weixin.qq.com/s/gvKQop14alvidIIzWHqJag)
-+ [中值法求函数值](https://mp.weixin.qq.com/s/ggiC3gcW6VVQOtyWhnZhiA)
+
 + [金银岛航线](https://mp.weixin.qq.com/s/NP9ejR8V4aMaZqa6F_oBgw)
 + [利用多边形估计Pi值](https://mp.weixin.qq.com/s/lIs3cEtZkG1D__dm2lKnbg)
 + [斐波那契数列](https://mp.weixin.qq.com/s/41i4MJrcYyOl4OeqKLWi8A)
@@ -526,6 +524,8 @@ output:
 + [丹麦压马路](https://mp.weixin.qq.com/s/ULFvQx079WVLbjMlE8Jslw)
 + [黑灯瞎火 - 哥本哈根](https://mp.weixin.qq.com/s/0nV-BaEKAouAcGhyNRh1ng)
 + [巴黎压马路](https://mp.weixin.qq.com/s/1pBEOj6B4GkB_fLf6Mw-Nw)
++ [这些年，我上过的课（是上过，不是被上）](https://mp.weixin.qq.com/s/8U6hnj4VbYWqhWqjKAeW_Q)
++ [那一年，那一场，本属于我的生信处女show，好像从来没有发生过一样！](https://mp.weixin.qq.com/s/InH_3v2wLo6GO9jLnVLlWw)
 
 
 
@@ -590,6 +590,9 @@ output:
 + [这么巧啊，你也在研究那坨屎！](https://mp.weixin.qq.com/s/cX9Eliwpw5KaOMpof3LtWw)
 + [微信读书中阅读公众号](https://mp.weixin.qq.com/s/BegWCcI2s830eBp3zYgbWA)
 + [听说你找不到公众号的入口了！](https://mp.weixin.qq.com/s/u8-BP7SL--iQKIh149Y3LA)
++ [2017年每月阅读量最高的文章盘点](https://mp.weixin.qq.com/s/oPiq4mlLJsDGrIyRMMvSpA)
++ [2018年每月阅读量最高的文章盘点](https://mp.weixin.qq.com/s/Iccp5bPyXtm6kCTWc84Q2Q)
+
 
 
 ### biobabble每周一图
@@ -635,6 +638,9 @@ output:
 + [相亲套路深](https://mp.weixin.qq.com/s/2InsDYabVHx0_VidrIDxag)
 + [知道开头，猜不到结局](https://mp.weixin.qq.com/s/2KZBN2s7ImXfP-T4C8phFA)
 + [别人家的学生](https://mp.weixin.qq.com/s/VDiqo_TocpgmK0adzXeIgA)
++ [今天放过论文，对自己好一点](https://mp.weixin.qq.com/s/b6hK6y-OWPw7EVOHo325Ig)
++ [ggplot2改legend title](https://mp.weixin.qq.com/s/9Yj7vet_zz9BcINx_auKbQ)
++ [老年博士生的悲哀](https://mp.weixin.qq.com/s/k7bAn_uacksuFiLZd1wB9g)
 
 
 #### 视频分享
