@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-05-06 -->
+<!-- 更新于2019-05-10 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -87,10 +87,11 @@ output:
 
 + [看完此文, 你也能够大开脑洞, 上升逼格](https://mp.weixin.qq.com/s/EgGfpH_Efr0d6ApxXAkvZA)
 + [emojifont包](https://mp.weixin.qq.com/s/2AKwdpxv7XwRukczMo8MwQ)
-+ [画❤️装geek什么的，都弱爆了！😜](https://mp.weixin.qq.com/s/Y8IHd6X4f49irXvD_M7bNw)
++ [画❤️装geek什么的，都弱爆了！](https://mp.weixin.qq.com/s/Y8IHd6X4f49irXvD_M7bNw)
 + [emojifont新功能（有视频哦）](https://mp.weixin.qq.com/s/ARxyTRpMs6OeCqOQPp9OwA)
 + [phylomoji：用emoji画进化树](https://mp.weixin.qq.com/s/JxcfuJVT1ySFPphYwSmYSQ)
 + [你所没见过的苹果](https://mp.weixin.qq.com/s/O4Uv6Opb57Kjr_OiurTHtA)
++ [画图讲故事](https://mp.weixin.qq.com/s/i9XVLjH-nP-R-ewbwvKpwQ)
 
 ## enrichplot
 
@@ -312,6 +313,7 @@ output:
 + [Bioconductor的注释包太旧怎么办？自己做呀](https://mp.weixin.qq.com/s/GsLN0xPcZ7_4yfgPFzexCA)
 + [听说你画的图，线条不见了](https://mp.weixin.qq.com/s/-KUCY8AQAFIeFb4ja5psnA)
 + [欧式距离如何应对缺失值？](https://mp.weixin.qq.com/s/NZSfAVlWuJkuFsNDo_NMiw)
++ [史前人类怎么使用R](https://mp.weixin.qq.com/s/b88W5Iy1KgiMgQLYs2LAeQ)
 
 
 ### Introduction to Scientific Programming and Simulation Using R
@@ -338,7 +340,6 @@ output:
 + [Update R packages](https://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
 + [mathart：一个富有逼格的R包](https://mp.weixin.qq.com/s/tg2Re5VjBGwV7Xpt0Lb3Rw)
 + [用R玩一个小游戏吧！拖延症的老毛病又犯了！](https://mp.weixin.qq.com/s/X7hbjzJUIbn9Pbcz9YIoQw)
-+ [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
 + [learn R wisdom with fortunes](https://mp.weixin.qq.com/s/PNvsou6CfQlM0hQ8LuT0OQ)
 + [画图？倒不如手绘吧！](https://mp.weixin.qq.com/s/xPIDevw6R_XDSaxi6W5gtA)
 + [我不会用illustrator，只会用ppt！](https://mp.weixin.qq.com/s/nHT3vkwNfQknr6CLF0cUDQ)
@@ -377,7 +378,7 @@ output:
 + [一条指令把统计+画图都给做了？似乎太美好！](https://mp.weixin.qq.com/s/vV6CiTh7BStXbqoVaklM0w)
 + [用ggplot2画3D](https://mp.weixin.qq.com/s/W0-QoNY25XXQm6SYe3EpIA)
 + [ggplot2的3维画图时代](https://mp.weixin.qq.com/s/4BXzX8FgMSTjzISPzvH0Ag)
-
++ [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
 
 ----
 
@@ -510,7 +511,7 @@ output:
 + [斐波那契数列](https://mp.weixin.qq.com/s/41i4MJrcYyOl4OeqKLWi8A)
 + [Neumann的随机数生成器](https://mp.weixin.qq.com/s/4Co80GcDtHyWCEcjpdbSrw)
 + [Linear Congruential Generator](https://mp.weixin.qq.com/s/fSt2yb8PJHV13hnF6httfQ)
-
++ [手上握有多少幸运票？](https://mp.weixin.qq.com/s/-EEtpS5RlY0lmg6pz9w7kA)
 
 ## Y叔生活篇
 
@@ -647,6 +648,8 @@ output:
 
 + [好山好水好穷B](https://mp.weixin.qq.com/s/1dAefyvOgyAc4INgYgVFdg)
 + [别人家的教授](https://mp.weixin.qq.com/s/lkYY0U1yhTU9Ow7N9hBU7Q)
++ [柠檬树上柠檬果，柠檬树下你和我](https://mp.weixin.qq.com/s/nqG6PRQVECpOPJAML7G9rA)
+
 
 ## MISC
 
