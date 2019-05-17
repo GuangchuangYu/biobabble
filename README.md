@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-05-10 -->
+<!-- 更新于2019-05-17 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -70,7 +70,7 @@ output:
 + [使用新姿势玩KEGG，是种什么体验...](https://mp.weixin.qq.com/s/17ujVhcrkX1DLsUJBtUGEw)
 + [利用KEGG数据库进行ID转换](https://mp.weixin.qq.com/s/DorErMerquLuQpUOU0YJew)
 + [KEGG Module Enrichment Analysis](https://mp.weixin.qq.com/s/EflAAyEobEvicbXgWqyb5A)
-
++ [如何利用clusterProfiler获取最新的KEGG和基因对应关系](https://mp.weixin.qq.com/s/AIGGi01w6thK41MYNobrRg)
 
 ## DOSE
 
@@ -192,9 +192,11 @@ output:
 + [Growing a ggtree](https://mp.weixin.qq.com/s/6pQA4tqg1odZvOIm1CY6mg)
 + [Growing a ggtree - part 2, adding tip shapes](https://mp.weixin.qq.com/s/G7yiFz7FBxyD-TK4jn878w)
 + [Plotting a Sequential Binary Partition on a Tree in R](https://mp.weixin.qq.com/s/D5tWuXOwzWHc4O2Yv_uNjA)
-+ [五彩进化树与热图更配-ggtree美颜进化树(宏基因组扩增子)](https://mp.weixin.qq.com/s/NGxErJtktxf9cSbQ4vD3Eg)
 + [Enhanced annotation of a primate phylogeny with ggtree](https://mp.weixin.qq.com/s/GootWrMwI9dbt7q1NLMUmQ)
 
+<!--
++ [五彩进化树与热图更配-ggtree美颜进化树(宏基因组扩增子)](https://mp.weixin.qq.com/s/NGxErJtktxf9cSbQ4vD3Eg)
+-->
 
 ## GOSemSim
 
@@ -291,7 +293,6 @@ output:
 
 
 + [听说你想学R？](https://mp.weixin.qq.com/s/9jQQlLRpWL01K2Py8CsnNw)
-+ [我在MSnbase里做了什么？](https://mp.weixin.qq.com/s/9pS9w7tHhlV8zlqxd8jImA)
 + [无中生有windows版R包](https://mp.weixin.qq.com/s/VoWEamFLK6ktiMOdDj0bEA)
 + [你所不知道的，R的N种打开方式](https://mp.weixin.qq.com/s/BsEm76Eq9_tbw3myobD_SA)
 + [radian: 用python写的，号称21世纪的R终端](https://mp.weixin.qq.com/s/Kc_01u_4PmOcdJGLjNoeLA)
@@ -512,10 +513,12 @@ output:
 + [Neumann的随机数生成器](https://mp.weixin.qq.com/s/4Co80GcDtHyWCEcjpdbSrw)
 + [Linear Congruential Generator](https://mp.weixin.qq.com/s/fSt2yb8PJHV13hnF6httfQ)
 + [手上握有多少幸运票？](https://mp.weixin.qq.com/s/-EEtpS5RlY0lmg6pz9w7kA)
++ [斐波那契数列](https://mp.weixin.qq.com/s/7rldLwGWgyeBkfZVr-0KnA)
 
 ## Y叔生活篇
 
 + [匆匆那年，如一场不真实的梦。](https://mp.weixin.qq.com/s/nTslUm7qy1bIFgntLtkNBg)
++ [我在MSnbase里做了什么？](https://mp.weixin.qq.com/s/9pS9w7tHhlV8zlqxd8jImA)
 + [来香港读博其实是被逼的](https://mp.weixin.qq.com/s/LzwSAYT7yyYTMrNnck9KCg)
 + [假期如何假装我们还在工作？](https://mp.weixin.qq.com/s/zt2Xkj_VBRPkzwl3dzfimw)
 + [博士养成记](https://mp.weixin.qq.com/s/81IQghBHUfqS1934yUAsCw)
@@ -525,9 +528,9 @@ output:
 + [丹麦压马路](https://mp.weixin.qq.com/s/ULFvQx079WVLbjMlE8Jslw)
 + [黑灯瞎火 - 哥本哈根](https://mp.weixin.qq.com/s/0nV-BaEKAouAcGhyNRh1ng)
 + [巴黎压马路](https://mp.weixin.qq.com/s/1pBEOj6B4GkB_fLf6Mw-Nw)
-+ [这些年，我上过的课（是上过，不是被上）](https://mp.weixin.qq.com/s/8U6hnj4VbYWqhWqjKAeW_Q)
 + [那一年，那一场，本属于我的生信处女show，好像从来没有发生过一样！](https://mp.weixin.qq.com/s/InH_3v2wLo6GO9jLnVLlWw)
-
++ [这些年，我上过的课（是上过，不是被上）](https://mp.weixin.qq.com/s/8U6hnj4VbYWqhWqjKAeW_Q)
++ [那些我讲过的oral](https://mp.weixin.qq.com/s/gDF9Wn52aiCm82LrMlKQzg)
 
 
 ## 硕博士的那点事
@@ -642,6 +645,8 @@ output:
 + [今天放过论文，对自己好一点](https://mp.weixin.qq.com/s/b6hK6y-OWPw7EVOHo325Ig)
 + [ggplot2改legend title](https://mp.weixin.qq.com/s/9Yj7vet_zz9BcINx_auKbQ)
 + [老年博士生的悲哀](https://mp.weixin.qq.com/s/k7bAn_uacksuFiLZd1wB9g)
++ [想学R快上车，什么时候都不晚](https://mp.weixin.qq.com/s/ddZCTCmy9hsaKaiAfnJeHg)
++ [grid版小蛋糕](https://mp.weixin.qq.com/s/rlhlNwlojvUQTukRwl717A)
 
 
 #### 视频分享
