@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-05-17 -->
+<!-- 更新于2019-05-29 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -50,6 +50,8 @@ output:
 + [做学术终究是看脸...](https://mp.weixin.qq.com/s/aBjfWTLsZLcEI8nhnF2WoQ)
 + [富集分析事后丸：过滤数据](https://mp.weixin.qq.com/s/odA-xzI4lCMDmyZxtEMwFg)
 + [软件虽然好用，但没发在高影响因子的期刊上，给你们丢脸了！](https://mp.weixin.qq.com/s/F7z8r-5KssWV9YTV98tYxQ)
++ [你那一串差异基因，到底是在哪个组织、哪种细胞中富集？](https://mp.weixin.qq.com/s/LavOUrZmba10GNaYvLo85A)
+
 
 
 ### GO
@@ -115,6 +117,7 @@ output:
 + [2018世界杯专属图层](https://mp.weixin.qq.com/s/6GO_e1R8pO4p-QwKs5bQnw)
 + [每周一图之粉丝来袭～](https://mp.weixin.qq.com/s/RDWp_sVMH-RDAe5AX8LUUw)
 + [ggimage的一波用户图秀](https://mp.weixin.qq.com/s/jmP1xuwHIhXPQ6FVZMgjjw)
++ [看代码学画图 - Nobel化学奖的获得者多半投胎在那些国家？](https://mp.weixin.qq.com/s/jPnXAnnna1VFV9Oht3SToA)
 
 
 
@@ -486,6 +489,7 @@ output:
 + [arch之是时候换掉yaourt了](https://mp.weixin.qq.com/s/8SZo-00_vbWZI3nnbClF_A)
 + [arch之打第一个AUR包](https://mp.weixin.qq.com/s/amyClhLs2CoQpaA5d0JfGw)
 + [记一次搞死linux又医活的经历](https://mp.weixin.qq.com/s/p5b9Xex3PLwu2CKpBCTVCw)
++ [MacBook安装Arch的一些设置](https://mp.weixin.qq.com/s/4uJcu7Q8-989BTdJXPmlCQ)
 
 ### Mac
 
@@ -647,7 +651,9 @@ output:
 + [老年博士生的悲哀](https://mp.weixin.qq.com/s/k7bAn_uacksuFiLZd1wB9g)
 + [想学R快上车，什么时候都不晚](https://mp.weixin.qq.com/s/ddZCTCmy9hsaKaiAfnJeHg)
 + [grid版小蛋糕](https://mp.weixin.qq.com/s/rlhlNwlojvUQTukRwl717A)
-
++ [用R拼图片](https://mp.weixin.qq.com/s/-wRPeOgGiPgJd7sOBcTBVw)
++ [vroom](https://mp.weixin.qq.com/s/AcvEVX-GsmHu5aJAB3-WeQ)
++ [ASCII进化树](https://mp.weixin.qq.com/s/hr7v0LpkUpLs9pFvsF16FA)
 
 #### 视频分享
 
@@ -683,3 +689,5 @@ output:
 + [你是否还在用那些该退出历史舞台的软件？](https://mp.weixin.qq.com/s/vMK_b69OHir2v2p2sSfWaA)
 + [学会生信，只需三天！你是最棒的！(手动滑稽)](https://mp.weixin.qq.com/s/8K54MVL9nsdvf6gHr_-c7A)
 + [996.ICU](https://mp.weixin.qq.com/s/tOncegeP791rD2t9PthsFw)
++ [520交出什么比较好？](https://mp.weixin.qq.com/s/Xh7TQD1hCoaJ6XoTAS2KNA)
+
