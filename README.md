@@ -7,10 +7,11 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-05-29 -->
+<!-- 更新于2019-06-28 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
+
 
 
 ## ChIPseeker
@@ -118,6 +119,7 @@ output:
 + [每周一图之粉丝来袭～](https://mp.weixin.qq.com/s/RDWp_sVMH-RDAe5AX8LUUw)
 + [ggimage的一波用户图秀](https://mp.weixin.qq.com/s/jmP1xuwHIhXPQ6FVZMgjjw)
 + [看代码学画图 - Nobel化学奖的获得者多半投胎在那些国家？](https://mp.weixin.qq.com/s/jPnXAnnna1VFV9Oht3SToA)
++ [@所有人：用图片来画图，还带美图效果哦！](https://mp.weixin.qq.com/s/epbkMTg8tITR5JIK4KeNsQ)
 
 
 
@@ -180,6 +182,9 @@ output:
 + [ggtree买家秀](https://mp.weixin.qq.com/s/W9UI9doKKeq8YhbcA0N-_A)
 + [多个热图，多种配色，还要分开画图例？](https://mp.weixin.qq.com/s/ZZLeTeWX3TvXuHe5sICgRg)
 + [ggplot2 - 更改分面的相对宽度](https://mp.weixin.qq.com/s/72UHjAQTRXuHzoeWUc-ccA)
++ [听说你想画好几颗树在一起](https://mp.weixin.qq.com/s/Hx9fI-JaMN7gY_vElQiQKg)
++ [倒不如画一些渐变色的线条吧](https://mp.weixin.qq.com/s/0WGS6b11F1Ul0ZkceKYOvQ)
++ [python的世界里没有这么好的工具！](https://mp.weixin.qq.com/s/zops2EyAdJsLtBcGcxa3ZQ)
 
 
 ### 直播
@@ -318,6 +323,8 @@ output:
 + [听说你画的图，线条不见了](https://mp.weixin.qq.com/s/-KUCY8AQAFIeFb4ja5psnA)
 + [欧式距离如何应对缺失值？](https://mp.weixin.qq.com/s/NZSfAVlWuJkuFsNDo_NMiw)
 + [史前人类怎么使用R](https://mp.weixin.qq.com/s/b88W5Iy1KgiMgQLYs2LAeQ)
++ [《R语言数据可视化之美》 -- 画面太美](https://mp.weixin.qq.com/s/MiAAo8KFAoP-J9Avx1mzEA)
++ [有个浏览器就可以调戏一下R](https://mp.weixin.qq.com/s/h5698lVuO3BNk3LD07ANPw)
 
 
 ### Introduction to Scientific Programming and Simulation Using R
@@ -334,6 +341,7 @@ output:
 
 ### R包介绍
 
++ [魔镜魔镜告诉我 - 那里的水管最粗大](https://mp.weixin.qq.com/s/9hSLryM-TSxZmoGwf_A3mg)
 + [食色性也](https://mp.weixin.qq.com/s/ZrS8IQOMSwx9R3006HYryA)
 + [R包辣鸡之CorMut](https://mp.weixin.qq.com/s/JODhkZ5-qPMDx1zrWHyW_w)
 + [来自R的桌面提醒](https://mp.weixin.qq.com/s/MuPCMV__XIgAgmz-9HxM0Q)
@@ -371,6 +379,8 @@ output:
 + [ggplot label placement](https://mp.weixin.qq.com/s/6MMVsO22n9oKZNC7qC7g5A)
 + [图层中的统计量，你自己说的算！](https://mp.weixin.qq.com/s/yvfdIvtN7aNHDgdSNVCIRw)
 + [根号2的几何作图](https://mp.weixin.qq.com/s/jC4wfZI2TgZRiC2fS_s8PQ)
++ [画点之组内再分组](https://mp.weixin.qq.com/s/id9ZKQXn3UFtwaY1QKix8A)
+
 
 ### ggplot2扩展
 
@@ -398,6 +408,8 @@ output:
 + [如何告别单身](https://mp.weixin.qq.com/s/2j9VRgar5ExSma6B7Yc3dw)
 + [主成分分析](https://mp.weixin.qq.com/s/hPLlBAoN94TcyM-lP6jKCQ)
 + [一文解决RT-PCR的统计分析](https://mp.weixin.qq.com/s/URpIfwGLCzm30Ao9-_StJA)
++ [不靠谱的富集软件太多了！](https://mp.weixin.qq.com/s/MO9V7fTGQSWBmRSvtUOGRA)
++ [Bootstrap Method](https://mp.weixin.qq.com/s/w7OsbFIssQref7hmoCGkcA)
 
 
 ## 生物
@@ -535,6 +547,7 @@ output:
 + [那一年，那一场，本属于我的生信处女show，好像从来没有发生过一样！](https://mp.weixin.qq.com/s/InH_3v2wLo6GO9jLnVLlWw)
 + [这些年，我上过的课（是上过，不是被上）](https://mp.weixin.qq.com/s/8U6hnj4VbYWqhWqjKAeW_Q)
 + [那些我讲过的oral](https://mp.weixin.qq.com/s/gDF9Wn52aiCm82LrMlKQzg)
++ [剑桥膜拜大神记](https://mp.weixin.qq.com/s/4bk7XAxcjgbs2QwpS47PIQ)
 
 
 ## 硕博士的那点事
@@ -654,6 +667,13 @@ output:
 + [用R拼图片](https://mp.weixin.qq.com/s/-wRPeOgGiPgJd7sOBcTBVw)
 + [vroom](https://mp.weixin.qq.com/s/AcvEVX-GsmHu5aJAB3-WeQ)
 + [ASCII进化树](https://mp.weixin.qq.com/s/hr7v0LpkUpLs9pFvsF16FA)
++ [抄袭代码](https://mp.weixin.qq.com/s/ndvo4QA--ijmUFP_w7wo2w)
++ [抄出了版权](https://mp.weixin.qq.com/s/cSFccMwTrNQRSh6Mjk5RAA)
++ [i3wm与wine-QQ不兼容](https://mp.weixin.qq.com/s/iOWUKms73kihI6rqMH6-4g)
++ [phylomoji + noto emoji font](https://mp.weixin.qq.com/s/DYojdbx1qPBfiqPU_LVnag)
++ [excel大坑](https://mp.weixin.qq.com/s/apL3r5AbU2UCL5EShXixuA)
+
+
 
 #### 视频分享
 
