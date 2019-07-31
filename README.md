@@ -7,11 +7,10 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-06-28 -->
+<!-- 更新于2019-07-30 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
-
 
 
 ## ChIPseeker
@@ -52,7 +51,7 @@ output:
 + [富集分析事后丸：过滤数据](https://mp.weixin.qq.com/s/odA-xzI4lCMDmyZxtEMwFg)
 + [软件虽然好用，但没发在高影响因子的期刊上，给你们丢脸了！](https://mp.weixin.qq.com/s/F7z8r-5KssWV9YTV98tYxQ)
 + [你那一串差异基因，到底是在哪个组织、哪种细胞中富集？](https://mp.weixin.qq.com/s/LavOUrZmba10GNaYvLo85A)
-
++ [听说富集分析有个概念叫Fold Enrichment](https://mp.weixin.qq.com/s/KwJVJHd7Sh6c7inVtAsYeg)
 
 
 ### GO
@@ -185,6 +184,9 @@ output:
 + [听说你想画好几颗树在一起](https://mp.weixin.qq.com/s/Hx9fI-JaMN7gY_vElQiQKg)
 + [倒不如画一些渐变色的线条吧](https://mp.weixin.qq.com/s/0WGS6b11F1Ul0ZkceKYOvQ)
 + [python的世界里没有这么好的工具！](https://mp.weixin.qq.com/s/zops2EyAdJsLtBcGcxa3ZQ)
++ [连续型和离散型数据一起画热图，外加分开配色和图例](https://mp.weixin.qq.com/s/dvblHzdHMwqkxoExoXaW2Q)
++ [ggtree画层次聚类](https://mp.weixin.qq.com/s/6LYi6pfLX_-ybbOY94i3hA)
++ [风儿啊，它吹乱了我的头发](https://mp.weixin.qq.com/s/iUUyXtJG3Fj3uPfvfHmdQA)
 
 
 ### 直播
@@ -326,7 +328,6 @@ output:
 + [《R语言数据可视化之美》 -- 画面太美](https://mp.weixin.qq.com/s/MiAAo8KFAoP-J9Avx1mzEA)
 + [有个浏览器就可以调戏一下R](https://mp.weixin.qq.com/s/h5698lVuO3BNk3LD07ANPw)
 
-
 ### Introduction to Scientific Programming and Simulation Using R
 
 + [Newton-Raphson Method估算函数的根](https://mp.weixin.qq.com/s/qhT_sooSINjjvWpwq2d1VA)
@@ -346,6 +347,7 @@ output:
 + [R包辣鸡之CorMut](https://mp.weixin.qq.com/s/JODhkZ5-qPMDx1zrWHyW_w)
 + [来自R的桌面提醒](https://mp.weixin.qq.com/s/MuPCMV__XIgAgmz-9HxM0Q)
 + [有魔性的图来一发](https://mp.weixin.qq.com/s/cu7J62fVQ74vaOYuRXUmqA)
++ [听说你用R把证件照给一键换底了](https://mp.weixin.qq.com/s/ZX4iHCHeGvtfCBl5-v5GVw)
 + [用R画一只恐龙？](https://mp.weixin.qq.com/s/2dJnJYgb6K7sT89-ECi7SA)
 + [basicTrendline：CRAN最新发布的线性非线性拟合的R函数包介绍](https://mp.weixin.qq.com/s/p38EPM6rV0gmwOj5FpBf4A)
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
@@ -355,7 +357,7 @@ output:
 + [learn R wisdom with fortunes](https://mp.weixin.qq.com/s/PNvsou6CfQlM0hQ8LuT0OQ)
 + [画图？倒不如手绘吧！](https://mp.weixin.qq.com/s/xPIDevw6R_XDSaxi6W5gtA)
 + [我不会用illustrator，只会用ppt！](https://mp.weixin.qq.com/s/nHT3vkwNfQknr6CLF0cUDQ)
-
++ [在剑桥的那一周，我写了一个R包](https://mp.weixin.qq.com/s/5Xq7CB9McTeiEdEIyY3GQA)
 
 ## ggplot2
 
@@ -472,6 +474,7 @@ output:
 + [Sci-Hub可用域名实时追踪](https://mp.weixin.qq.com/s/puPvCOQcOf7aG5ghY82XrQ)
 + [Kopernio: 快速一键下文献](https://mp.weixin.qq.com/s/IbfI3C8--soC2H9HzyZgAA)
 + [sci-hub合法的可能性](https://mp.weixin.qq.com/s/kN9kdOh1B1fYLytRtVlRqQ)
++ [一个刷屏的所谓「文献数据库」，都是我十年前玩剩下的！](https://mp.weixin.qq.com/s/H1pyuyk5fm2Cc5FAUDeq1A)
 
 
 ## 操作系统
@@ -672,8 +675,7 @@ output:
 + [i3wm与wine-QQ不兼容](https://mp.weixin.qq.com/s/iOWUKms73kihI6rqMH6-4g)
 + [phylomoji + noto emoji font](https://mp.weixin.qq.com/s/DYojdbx1qPBfiqPU_LVnag)
 + [excel大坑](https://mp.weixin.qq.com/s/apL3r5AbU2UCL5EShXixuA)
-
-
++ [windows用户, 截屏新手段](https://mp.weixin.qq.com/s/CP00v7HuclUcfJn2_aSplA)
 
 #### 视频分享
 
