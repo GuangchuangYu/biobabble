@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-07-30 -->
+<!-- 更新于2019-08-27 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -94,6 +94,8 @@ output:
 + [phylomoji：用emoji画进化树](https://mp.weixin.qq.com/s/JxcfuJVT1ySFPphYwSmYSQ)
 + [你所没见过的苹果](https://mp.weixin.qq.com/s/O4Uv6Opb57Kjr_OiurTHtA)
 + [画图讲故事](https://mp.weixin.qq.com/s/i9XVLjH-nP-R-ewbwvKpwQ)
++ [听说你也有 emojifont 的字体使用困惑](https://mp.weixin.qq.com/s/RWw9xdJb9WsbeZu3ohUI7A)
+
 
 ## enrichplot
 
@@ -119,6 +121,8 @@ output:
 + [ggimage的一波用户图秀](https://mp.weixin.qq.com/s/jmP1xuwHIhXPQ6FVZMgjjw)
 + [看代码学画图 - Nobel化学奖的获得者多半投胎在那些国家？](https://mp.weixin.qq.com/s/jPnXAnnna1VFV9Oht3SToA)
 + [@所有人：用图片来画图，还带美图效果哦！](https://mp.weixin.qq.com/s/epbkMTg8tITR5JIK4KeNsQ)
++ [geom_bgimage](https://mp.weixin.qq.com/s/85yb7RZxbOF92h0b8MRQhw)
++ [让我们画个黑板报吧](https://mp.weixin.qq.com/s/1F3C-xt0n7wjdhSL0GEUqg)
 
 
 
@@ -135,6 +139,7 @@ output:
 + [转UpSet图为ggplot?](https://mp.weixin.qq.com/s/g6rRGhtKQd_mdRMKxteNVw)
 + [ggplotify简史](https://mp.weixin.qq.com/s/zzs0xIlEqxN7XO2IUxNBiA)
 + [听说你想把pheatmap和ggplot2拼在一起](https://mp.weixin.qq.com/s/ypxeZX_gQW98caoxV_DpOw)
++ [ggplotify - version 0.0.4](https://mp.weixin.qq.com/s/8nGnnV71ibftRHIzgXqbiw)
 
 
 ## ggtree
@@ -154,6 +159,7 @@ output:
 + [用ggtree重现Figtree的示例进化树](https://mp.weixin.qq.com/s/3Fc83au6gV5p6ZdlzlAC2w)
 + [ggtree for microbiome data](https://mp.weixin.qq.com/s/KScSppwajYsuHuf1w3bQTQ)
 + [ggtree for outbreak data ](https://mp.weixin.qq.com/s/eo_lrVctJ3X3OCdAQqK9Dw)
++ [ggtree画层次聚类](https://mp.weixin.qq.com/s/tLaboUnsm2iA20PWLuf6yg)
 + [用户数据注释进化树](https://mp.weixin.qq.com/s/ClTWsdyIYyHeNN0enwlglw)
 + [改变outgroup的枝长](https://mp.weixin.qq.com/s/d2sLLmuMTXLZNfQbWtKUxg)
 + [使用自己的数据来给进化树上色](https://mp.weixin.qq.com/s/8ryU-3HjMvE7RFgo4rQ3Ew)
@@ -267,6 +273,9 @@ output:
 + [进化树改名](https://mp.weixin.qq.com/s/-v1vklrKRwkEJ0amjVJjJQ)
 + [treeio: Phylogenetic data integration](https://mp.weixin.qq.com/s/vLcoF2yMpOa4VzO2nxhZEw)
 + [Subsetting Phylogenetic Trees](https://mp.weixin.qq.com/s/-wpzjkpHLGL8jEzNTSivJQ)
++ [treeio支持解析MEGA的输出](https://mp.weixin.qq.com/s/Ikp3hq8OBOsdkQY390grqA)
+
+
 
 ## yyplot
 
@@ -382,6 +391,7 @@ output:
 + [图层中的统计量，你自己说的算！](https://mp.weixin.qq.com/s/yvfdIvtN7aNHDgdSNVCIRw)
 + [根号2的几何作图](https://mp.weixin.qq.com/s/jC4wfZI2TgZRiC2fS_s8PQ)
 + [画点之组内再分组](https://mp.weixin.qq.com/s/id9ZKQXn3UFtwaY1QKix8A)
++ [论一张ggplot图是怎样炼成的 - 从小白都会画到逼格十足是如何一步步产生的？](https://mp.weixin.qq.com/s/nXaoaN7u43gOLAvYPsiVQw)
 
 
 ### ggplot2扩展
@@ -441,6 +451,7 @@ output:
 + [s06 - Consensus and Profile](https://mp.weixin.qq.com/s/_cEZzxiZY5GIRa0d_MhnYA)
 + [s07 - Finding a Shared Motif](https://mp.weixin.qq.com/s/2CR9L8ALjvncejv-xSaxWA)
 + [s08 - RNA Splicing](https://mp.weixin.qq.com/s/dRbHm-7Ih_me2ffjDbK4ig)
++ [s09 - Perfect Matchings and RNA Secondary Structures](https://mp.weixin.qq.com/s/LhQIQhyfRc1C2vUOUcTBIg)
 
 
 ## 算法
@@ -495,6 +506,7 @@ output:
 + [你们想要的：QQ跑在Linux上](https://mp.weixin.qq.com/s/4yWzHxjB9WL33ujagi5BAw) 
 + [飞天猫：长着蝙蝠翅膀的猫！](https://mp.weixin.qq.com/s/HoiMrcE0fib_a9EaIGocGQ)
 + [gotop：一个更有逼格的top](https://mp.weixin.qq.com/s/rmg4WZNv7veNxw6KVOwylg)
++ [ydict：命令行在线中英文词典](https://mp.weixin.qq.com/s/dSXYO4lIrf8EowGiwmBEIw)
 
 
 
@@ -564,6 +576,7 @@ output:
 + [你弱你有理，我还惹不起](https://mp.weixin.qq.com/s/R2DyIqyNCWCS2_P4mDeFrw)
 + [你还在愁毕业？隔壁实验室的小哥从网上抄了几十行代码打了个R包，发了SCI，毕业了！](https://mp.weixin.qq.com/s/Kj54P49Dwaav7jrkOG-BBw)
 + [港校申请指北：考研考博失利之后的另一选择](https://mp.weixin.qq.com/s/uTF4YhBGVYMT-LPxQVP53Q)
++ [画个圈，影响因子6.6](https://mp.weixin.qq.com/s/F7ecVGbm7O1kbeq94FDXXQ)
 
 
 ## 学术八卦
@@ -676,6 +689,12 @@ output:
 + [phylomoji + noto emoji font](https://mp.weixin.qq.com/s/DYojdbx1qPBfiqPU_LVnag)
 + [excel大坑](https://mp.weixin.qq.com/s/apL3r5AbU2UCL5EShXixuA)
 + [windows用户, 截屏新手段](https://mp.weixin.qq.com/s/CP00v7HuclUcfJn2_aSplA)
++ [python版的dplyr: siuba包](https://mp.weixin.qq.com/s/YikZ3IDVG-6Cd_JSnckesw)
++ [ggtext: ggplot2支持富文本](https://mp.weixin.qq.com/s/EmGOfytnc4051UgeVgi-pQ)
++ [学习base也很重要](https://mp.weixin.qq.com/s/uvq2JwPY5UN_3fzw_6VXfw)
++ [一直重启一直爽](https://mp.weixin.qq.com/s/t50NAo1iUbIGe690uZdgMw)
+
+
 
 #### 视频分享
 
