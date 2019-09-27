@@ -214,18 +214,6 @@ output:
 + [ggtree直播PPT第一部分](https://mp.weixin.qq.com/s/3yEN-8oUck2WPmNQ368qYA)
 + [ggtree直播PPT第二部分](https://mp.weixin.qq.com/s/7-YhGzzu_tVAwySrYOKGFg)
 
-### 用户笔记
-
-+ [Introduction to ggplot2 and to ggtree](https://mp.weixin.qq.com/s/arWqfUW92_azo4hHmJVisg)
-+ [Phylogenetic trees in R using ggtree](https://mp.weixin.qq.com/s/IoBuxdOaAj-s7GR7eqMb7w)
-+ [Growing a ggtree](https://mp.weixin.qq.com/s/6pQA4tqg1odZvOIm1CY6mg)
-+ [Growing a ggtree - part 2, adding tip shapes](https://mp.weixin.qq.com/s/G7yiFz7FBxyD-TK4jn878w)
-+ [Plotting a Sequential Binary Partition on a Tree in R](https://mp.weixin.qq.com/s/D5tWuXOwzWHc4O2Yv_uNjA)
-+ [Enhanced annotation of a primate phylogeny with ggtree](https://mp.weixin.qq.com/s/GootWrMwI9dbt7q1NLMUmQ)
-
-<!--
-+ [五彩进化树与热图更配-ggtree美颜进化树(宏基因组扩增子)](https://mp.weixin.qq.com/s/NGxErJtktxf9cSbQ4vD3Eg)
--->
 
 ## GOSemSim
 
