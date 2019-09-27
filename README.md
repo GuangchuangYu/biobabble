@@ -126,7 +126,7 @@ output:
 + [每周一图之粉丝来袭～](https://mp.weixin.qq.com/s/RDWp_sVMH-RDAe5AX8LUUw)
 + [ggimage的一波用户图秀](https://mp.weixin.qq.com/s/jmP1xuwHIhXPQ6FVZMgjjw)
 + [看代码学画图 - Nobel化学奖的获得者多半投胎在那些国家？](https://mp.weixin.qq.com/s/jPnXAnnna1VFV9Oht3SToA)
-+ [@所有人：用图片来画图，还带美图效果哦！](https://mp.weixin.qq.com/s/epbkMTg8tITR5JIK4KeNsQ)
++ [用图片来画图，还带美图效果哦！](https://mp.weixin.qq.com/s/epbkMTg8tITR5JIK4KeNsQ)
 + [geom_bgimage](https://mp.weixin.qq.com/s/85yb7RZxbOF92h0b8MRQhw)
 + [让我们画个黑板报吧](https://mp.weixin.qq.com/s/1F3C-xt0n7wjdhSL0GEUqg)
 + [shit，拟合的残差这么大！](https://mp.weixin.qq.com/s/PXeo-FolKrEtnJCOhgr6kw)
