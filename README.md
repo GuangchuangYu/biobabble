@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-09-27 -->
+<!-- 更新于2019-10-25 -->
 
 
 
@@ -31,6 +31,7 @@ output:
 + [CS10: 八卦终结版](https://mp.weixin.qq.com/s/iRC_ak53PbN9DJbkPzgBOQ)
 + [CS番外1：如何定义下游的区间？](https://mp.weixin.qq.com/s/k0os67hI_rNwhrxseC8C8g)
 + [CS番外2: 过滤ChIPseeker注释结果](https://mp.weixin.qq.com/s/DjUbGR-aRscWUEaDXwdSPQ)
++ [CS番外3：更好用，更稳定的upsetplot + vennpie](https://mp.weixin.qq.com/s/IDjzjUVP0Pwa06vY1irtmQ)
 
 
 ## clusterProfiler
@@ -330,8 +331,7 @@ output:
 + [windows用户, 截屏新手段](https://mp.weixin.qq.com/s/CP00v7HuclUcfJn2_aSplA)
 + [grid版小蛋糕](https://mp.weixin.qq.com/s/rlhlNwlojvUQTukRwl717A)
 + [学习base也很重要](https://mp.weixin.qq.com/s/uvq2JwPY5UN_3fzw_6VXfw)
-
-
++ [你有一封来自data.table作者的邀请信，请查看！](https://mp.weixin.qq.com/s/cWwAg7q0XzV3-p_P7kCpHA)
 
 
 ### Introduction to Scientific Programming and Simulation Using R
@@ -367,6 +367,8 @@ output:
 + [美化base plot](https://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
 + [听说你还不会画动图](https://mp.weixin.qq.com/s/rzEoUjWZXvdPYjwEzNfYOw)
 + [爆炸型的饼图](https://mp.weixin.qq.com/s/fj9lMJvQov72i__0vj-_DA)
++ [把你用R画的图（base或ggplot2）变成ASCII纯文本](https://mp.weixin.qq.com/s/fZqi6wuI7G1kDeUSa_HzPA)
++ [不想画彩图了，用纹理填充吧，省掉好多版面费](https://mp.weixin.qq.com/s/PuPXR4L-DyAs3fOB1n64Vg)
 
 
 ## ggplot2
@@ -413,6 +415,7 @@ output:
 + [ggplot2的3维画图时代](https://mp.weixin.qq.com/s/4BXzX8FgMSTjzISPzvH0Ag)
 + [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
 + [ggtext: ggplot2支持富文本](https://mp.weixin.qq.com/s/EmGOfytnc4051UgeVgi-pQ)
++ [ggVennDiagram 诞生记](https://mp.weixin.qq.com/s/peNWKC5m7EWEv6w3m4rsIA)
 
 
 ----
@@ -481,6 +484,10 @@ output:
 + [csvtk - 跨平台、高效、实用的CSV/TSV命令行工具](https://mp.weixin.qq.com/s/NCqJInsvfmc5FEvnijrjYw)
 + [bioSyntax:针对生物数据的语法高亮](https://mp.weixin.qq.com/s/9sOn0eQ82P7W0WOGvDSEvw)
 + [bioView - 一个生信常用文件格式的可读性增强工具](https://mp.weixin.qq.com/s/r64Lre0mggKyHETxDo20bA)
++ [质感满满的简历，你也可以有！](https://mp.weixin.qq.com/s/Dz2fa83O_P5QPD8VLR7DRQ)
++ [每次重投文章，光改格式就花了两周！有了这把刷子，刷两下就好了！](https://mp.weixin.qq.com/s/Cqs9Nvt2JLejzfD3boSF9Q)
+
+
 
 
 ### 文献下载神器
@@ -513,11 +520,14 @@ output:
 + [度娘才是最大的老司机](https://mp.weixin.qq.com/s/CRskcoakJCtHKWc9zMg9gQ)
 + [开源的macOS和linux版微信](https://mp.weixin.qq.com/s/L556YNtVSKf84cEFdEZVBQ)
 + [你们想要的：QQ跑在Linux上](https://mp.weixin.qq.com/s/4yWzHxjB9WL33ujagi5BAw) 
++ [i3wm与wine-QQ不兼容](https://mp.weixin.qq.com/s/iOWUKms73kihI6rqMH6-4g)
++ [鹅厂终于出Linux版本的QQ了！](https://mp.weixin.qq.com/s/sVKJqr3aDHVRJ4Or1ZtN4w)
 + [飞天猫：长着蝙蝠翅膀的猫！](https://mp.weixin.qq.com/s/HoiMrcE0fib_a9EaIGocGQ)
 + [gotop：一个更有逼格的top](https://mp.weixin.qq.com/s/rmg4WZNv7veNxw6KVOwylg)
 + [ydict：命令行在线中英文词典](https://mp.weixin.qq.com/s/dSXYO4lIrf8EowGiwmBEIw)
-+ [i3wm与wine-QQ不兼容](https://mp.weixin.qq.com/s/iOWUKms73kihI6rqMH6-4g)
++ [一条相见恨晚的指令](https://mp.weixin.qq.com/s/0LNCDGqT_-OgHiR583TgAw)
 + [手机上愉快地写代码](https://mp.weixin.qq.com/s/k3cLa7i84vOKQUozdDSVsg)
+
 
 
 ### Arch Linux
@@ -577,6 +587,7 @@ output:
 + [剑桥膜拜大神记](https://mp.weixin.qq.com/s/4bk7XAxcjgbs2QwpS47PIQ)
 + [听说我的包用的人还挺多！](https://mp.weixin.qq.com/s/-Tx7-sAGuWX5kE3G-2v3pw)
 + [没想到挤进第一页](https://mp.weixin.qq.com/s/T71hwAnfi1XrUbl5nRHEng)
++ [国庆去哪玩？办公室里写课件！！！](https://mp.weixin.qq.com/s/c8rkR_ZhYfvlMUugLvWMNQ)
 
 
 ## 硕博士的那点事
@@ -660,6 +671,11 @@ output:
 + [小海龟告诉你【啥是佩奇】](https://mp.weixin.qq.com/s/XHPWPkvyo9CNVOFDwnEcPg)
 + [3D版邪恶的曲线](https://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
 + [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
++ [clusterProfiler通用模式](https://mp.weixin.qq.com/s/o4HrfwnpiDyTJ2BqhmhIjg)
++ [画图要怎么学](https://mp.weixin.qq.com/s/sTONORtmDZY-9bhD0Dnq6Q)
++ [nokia壁纸](https://mp.weixin.qq.com/s/0PR8PGa0HIqz8Cj4QW0OfA)
+
+
 
 
 #### biobabble节日问候
@@ -735,4 +751,5 @@ output:
 + [学会生信，只需三天！你是最棒的！(手动滑稽)](https://mp.weixin.qq.com/s/8K54MVL9nsdvf6gHr_-c7A)
 + [996.ICU](https://mp.weixin.qq.com/s/tOncegeP791rD2t9PthsFw)
 + [520交出什么比较好？](https://mp.weixin.qq.com/s/Xh7TQD1hCoaJ6XoTAS2KNA)
++ [玩转office只需要这一招](https://mp.weixin.qq.com/s/_9VuXReY71E_B6Qh_y7Jcw)
 
