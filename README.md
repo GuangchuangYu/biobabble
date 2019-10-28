@@ -671,7 +671,6 @@ output:
 + [小海龟告诉你【啥是佩奇】](https://mp.weixin.qq.com/s/XHPWPkvyo9CNVOFDwnEcPg)
 + [3D版邪恶的曲线](https://mp.weixin.qq.com/s/YN4GYWZkKA7eIgQcCdgqtQ)
 + [一图告诉你venn plot和upset plot的关系](https://mp.weixin.qq.com/s/PPtYmZdCbAzFdvTI1Tb6gQ)
-+ [clusterProfiler通用模式](https://mp.weixin.qq.com/s/o4HrfwnpiDyTJ2BqhmhIjg)
 + [画图要怎么学](https://mp.weixin.qq.com/s/sTONORtmDZY-9bhD0Dnq6Q)
 + [nokia壁纸](https://mp.weixin.qq.com/s/0PR8PGa0HIqz8Cj4QW0OfA)
 
@@ -699,7 +698,6 @@ output:
 + [国际女性科学日](https://mp.weixin.qq.com/s/VxbE5f2UUPkE-7CR7erN6g)
 + [为小众而搜](https://mp.weixin.qq.com/s/AQGVsxURDepCUBP5W78d6Q)
 + [关爱女科学家](https://mp.weixin.qq.com/s/xC1KuYW5OPZ_UqanPE-hwA)
-+ [clusterProfiler引用过千](https://mp.weixin.qq.com/s/tpe9h1mO8KImqOrfNvCEjw)
 + [与导师的初次见面](https://mp.weixin.qq.com/s/zUvmSslH0PhMc5GuDDvMKA)
 + [相亲套路深](https://mp.weixin.qq.com/s/2InsDYabVHx0_VidrIDxag)
 + [知道开头，猜不到结局](https://mp.weixin.qq.com/s/2KZBN2s7ImXfP-T4C8phFA)
@@ -713,6 +711,8 @@ output:
 + [excel大坑](https://mp.weixin.qq.com/s/apL3r5AbU2UCL5EShXixuA)
 + [python版的dplyr: siuba包](https://mp.weixin.qq.com/s/YikZ3IDVG-6Cd_JSnckesw)
 + [一直重启一直爽](https://mp.weixin.qq.com/s/t50NAo1iUbIGe690uZdgMw)
++ [clusterProfiler引用过千](https://mp.weixin.qq.com/s/tpe9h1mO8KImqOrfNvCEjw)
++ [clusterProfiler通用模式](https://mp.weixin.qq.com/s/o4HrfwnpiDyTJ2BqhmhIjg)
 
 
 
