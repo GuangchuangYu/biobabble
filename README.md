@@ -711,7 +711,6 @@ output:
 + [excel大坑](https://mp.weixin.qq.com/s/apL3r5AbU2UCL5EShXixuA)
 + [python版的dplyr: siuba包](https://mp.weixin.qq.com/s/YikZ3IDVG-6Cd_JSnckesw)
 + [一直重启一直爽](https://mp.weixin.qq.com/s/t50NAo1iUbIGe690uZdgMw)
-+ [clusterProfiler引用过千](https://mp.weixin.qq.com/s/tpe9h1mO8KImqOrfNvCEjw)
 + [clusterProfiler通用模式](https://mp.weixin.qq.com/s/o4HrfwnpiDyTJ2BqhmhIjg)
 
 
