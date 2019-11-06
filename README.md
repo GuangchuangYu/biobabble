@@ -696,7 +696,6 @@ output:
 + [page not found](https://mp.weixin.qq.com/s/HxoT0zsTmnn_sJYYg2D2cQ)
 + [科研压力](https://mp.weixin.qq.com/s/Batt9wTEEtt-ov8aTZZxCw)
 + [国际女性科学日](https://mp.weixin.qq.com/s/VxbE5f2UUPkE-7CR7erN6g)
-+ [为小众而搜](https://mp.weixin.qq.com/s/AQGVsxURDepCUBP5W78d6Q)
 + [关爱女科学家](https://mp.weixin.qq.com/s/xC1KuYW5OPZ_UqanPE-hwA)
 + [与导师的初次见面](https://mp.weixin.qq.com/s/zUvmSslH0PhMc5GuDDvMKA)
 + [相亲套路深](https://mp.weixin.qq.com/s/2InsDYabVHx0_VidrIDxag)
