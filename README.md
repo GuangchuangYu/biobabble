@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-10-25 -->
+<!-- 更新于2019-11-08 -->
 
 
 
@@ -32,7 +32,7 @@ output:
 + [CS番外1：如何定义下游的区间？](https://mp.weixin.qq.com/s/k0os67hI_rNwhrxseC8C8g)
 + [CS番外2: 过滤ChIPseeker注释结果](https://mp.weixin.qq.com/s/DjUbGR-aRscWUEaDXwdSPQ)
 + [CS番外3：更好用，更稳定的upsetplot + vennpie](https://mp.weixin.qq.com/s/IDjzjUVP0Pwa06vY1irtmQ)
-
++ [CS番外4：自定义注释分类](https://mp.weixin.qq.com/s/G-WUG5v09aK6NLZnUUV9rw)
 
 ## clusterProfiler
 
@@ -57,7 +57,7 @@ output:
 + [你那一串差异基因，到底是在哪个组织、哪种细胞中富集？](https://mp.weixin.qq.com/s/LavOUrZmba10GNaYvLo85A)
 + [听说富集分析有个概念叫Fold Enrichment](https://mp.weixin.qq.com/s/KwJVJHd7Sh6c7inVtAsYeg)
 + [拟南芥富集分析](https://mp.weixin.qq.com/s/R_l8o-Grat2ozbzrvcqGyg)
-
++ [clusterProfiler.dplyr：用dplyr操作富集分析结果](https://mp.weixin.qq.com/s/79hReZKa-aKiJB77ca1GHw)
 
 ### GO
 
@@ -170,6 +170,7 @@ output:
 + [用ggtree重现Figtree的示例进化树](https://mp.weixin.qq.com/s/3Fc83au6gV5p6ZdlzlAC2w)
 + [ggtree for microbiome data](https://mp.weixin.qq.com/s/KScSppwajYsuHuf1w3bQTQ)
 + [ggtree for outbreak data ](https://mp.weixin.qq.com/s/eo_lrVctJ3X3OCdAQqK9Dw)
++ [ggtree支持phylog对象](https://mp.weixin.qq.com/s/7MFS_OUVB5GkKCnHSGzUGA)
 + [ggtree画层次聚类](https://mp.weixin.qq.com/s/tLaboUnsm2iA20PWLuf6yg)
 + [用户数据注释进化树](https://mp.weixin.qq.com/s/ClTWsdyIYyHeNN0enwlglw)
 + [改变outgroup的枝长](https://mp.weixin.qq.com/s/d2sLLmuMTXLZNfQbWtKUxg)
@@ -243,6 +244,10 @@ output:
 ## ReactomePA
 
 + [ReactomePA引用过百](https://mp.weixin.qq.com/s/e4XwxNjvwoo-wAgPoNYKFw)
+
+## rvcheck
+
++ [一键更新所有R包](https://mp.weixin.qq.com/s/jGLEQ1r7a5X6MCJF1LF0yA)
 
 ## scatterpie
 
@@ -357,7 +362,6 @@ output:
 + [用R画一只恐龙？](https://mp.weixin.qq.com/s/2dJnJYgb6K7sT89-ECi7SA)
 + [basicTrendline：CRAN最新发布的线性非线性拟合的R函数包介绍](https://mp.weixin.qq.com/s/p38EPM6rV0gmwOj5FpBf4A)
 + [clifun: 在R里装装逼](https://mp.weixin.qq.com/s/4DojzE5Vfmkm80u2MygNcQ)
-+ [Update R packages](https://mp.weixin.qq.com/s/brAfMBIwSYXS852K2uNqRg)
 + [mathart：一个富有逼格的R包](https://mp.weixin.qq.com/s/tg2Re5VjBGwV7Xpt0Lb3Rw)
 + [用R玩一个小游戏吧！拖延症的老毛病又犯了！](https://mp.weixin.qq.com/s/X7hbjzJUIbn9Pbcz9YIoQw)
 + [learn R wisdom with fortunes](https://mp.weixin.qq.com/s/PNvsou6CfQlM0hQ8LuT0OQ)
@@ -401,6 +405,7 @@ output:
 + [同一数据多变量分组的boxplot?](https://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
 + [听说你还不会画热图](https://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
 + [ggplot2改legend title](https://mp.weixin.qq.com/s/9Yj7vet_zz9BcINx_auKbQ)
++ [ggplot2小技巧-数据没有，函数倒是有一个](https://mp.weixin.qq.com/s/isw1ZHkYIMseF6dK9CXA5g)
 
 
 ### ggplot2扩展
@@ -683,7 +688,7 @@ output:
 + [儿童节快乐](https://mp.weixin.qq.com/s/3XeikTAnk7PEVp_NL_aYyA)
 + [来自biobabble的中秋问候](https://mp.weixin.qq.com/s/z_ijHtDpjLbAyCzHn8bIkg)
 + [中秋画饼](https://mp.weixin.qq.com/s/DvWhBre4jMSteuZCSZF1uQ)
-+ [南瓜节](https://mp.weixin.qq.com/s/LY84u4a79vkLbrBns3Id3A)
++ [南瓜节](https://mp.weixin.qq.com/s/06IjjRuKBhfX3OzfXFdtjg)
 + [火鸡全家桶](https://mp.weixin.qq.com/s/Crd5VsNIsmIU0mtyOSgOgg)
 + [冬至快乐！](https://mp.weixin.qq.com/s/SfCHHLmLda6bjUSaaakOSg)
 + [圣诞快乐！](https://mp.weixin.qq.com/s/5IZgoORe7iniaEp8FlOmHA)
