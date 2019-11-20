@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-11-08 -->
+<!-- 更新于2019-11-20 -->
 
 
 
@@ -33,6 +33,8 @@ output:
 + [CS番外2: 过滤ChIPseeker注释结果](https://mp.weixin.qq.com/s/DjUbGR-aRscWUEaDXwdSPQ)
 + [CS番外3：更好用，更稳定的upsetplot + vennpie](https://mp.weixin.qq.com/s/IDjzjUVP0Pwa06vY1irtmQ)
 + [CS番外4：自定义注释分类](https://mp.weixin.qq.com/s/G-WUG5v09aK6NLZnUUV9rw)
++ [ChIPseeker其实支持顺反组的各种测序数据](https://mp.weixin.qq.com/s/3CMj0xejiV-FSMC-Vxd_-w)
+
 
 ## clusterProfiler
 
@@ -204,8 +206,8 @@ output:
 + [python的世界里没有这么好的工具！](https://mp.weixin.qq.com/s/zops2EyAdJsLtBcGcxa3ZQ)
 + [连续型和离散型数据一起画热图，外加分开配色和图例](https://mp.weixin.qq.com/s/dvblHzdHMwqkxoExoXaW2Q)
 + [风儿啊，它吹乱了我的头发](https://mp.weixin.qq.com/s/iUUyXtJG3Fj3uPfvfHmdQA)
-+ [ggtree应用场景？](https://mp.weixin.qq.com/s/EQ45vqq8cJznGDUFYGKTpA)
 + [ggtree在线书](https://mp.weixin.qq.com/s/NwYXAxhAQNW0Xmq21FY2nw)
++ [拼图？我掐指一算，发现事情没那么简单！](https://mp.weixin.qq.com/s/V1UiR98K6vy00PwkgkTmvA)
 
 
 ### 直播
