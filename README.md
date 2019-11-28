@@ -151,7 +151,6 @@ output:
 + [听说你想把pheatmap和ggplot2拼在一起](https://mp.weixin.qq.com/s/ypxeZX_gQW98caoxV_DpOw)
 + [ggplotify - version 0.0.4](https://mp.weixin.qq.com/s/8nGnnV71ibftRHIzgXqbiw)
 + [听说你想把Gviz画的基因结构转成ggplot?](https://mp.weixin.qq.com/s/dEU1xAWhw47FsnMCRDemeA)
-+ [用R拼图片](https://mp.weixin.qq.com/s/-wRPeOgGiPgJd7sOBcTBVw)
 
 
 
