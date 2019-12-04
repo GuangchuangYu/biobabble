@@ -34,7 +34,9 @@ clean:
 
 html:
 	Rscript -e 'rmarkdown::render("README.md", encoding="UTF-8")'; \
-	mv README.html docs/index.html;\
+	mv README.html docs/index.html
+
+push:
 	git add .; \
 	git commit -m 'update mp-post index'; \
 	git push -u origin master
