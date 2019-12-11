@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-11-20 -->
+<!-- 更新于2019-12-11 -->
 
 
 
@@ -61,6 +61,7 @@ output:
 + [拟南芥富集分析](https://mp.weixin.qq.com/s/R_l8o-Grat2ozbzrvcqGyg)
 + [clusterProfiler.dplyr：用dplyr操作富集分析结果](https://mp.weixin.qq.com/s/79hReZKa-aKiJB77ca1GHw)
 
+
 ### GO
 
 + [buildGOmap](https://mp.weixin.qq.com/s/-DHe6rcBEY9gyU_Fo7qh8w)
@@ -112,6 +113,8 @@ output:
 + [安装enrichplot及升级clusterProfiler](https://mp.weixin.qq.com/s/CyiIJNwAQkyHQ5OVU9oa7w)
 + [dotplot支持使用formula指定x轴变量](https://mp.weixin.qq.com/s/ZebT4OWDSIMoB6_ww2dYUg)
 + [一样的函数，不一样的upset](https://mp.weixin.qq.com/s/HkeFb8FLALnGdGPFt9MujA)
++ [cnetplot只标注部分节点的label](https://mp.weixin.qq.com/s/QryulFNPKe3SjrUy0NWeBw)
+
 
 ## ggimage
 
@@ -133,6 +136,7 @@ output:
 + [geom_bgimage](https://mp.weixin.qq.com/s/85yb7RZxbOF92h0b8MRQhw)
 + [让我们画个黑板报吧](https://mp.weixin.qq.com/s/1F3C-xt0n7wjdhSL0GEUqg)
 + [shit，拟合的残差这么大！](https://mp.weixin.qq.com/s/PXeo-FolKrEtnJCOhgr6kw)
++ [ggimage开始画不会变形的图了！](https://mp.weixin.qq.com/s/saKPEsA9GZXrCFQdHVxMUA)
 
 
 
@@ -206,6 +210,7 @@ output:
 + [风儿啊，它吹乱了我的头发](https://mp.weixin.qq.com/s/iUUyXtJG3Fj3uPfvfHmdQA)
 + [ggtree在线书](https://mp.weixin.qq.com/s/NwYXAxhAQNW0Xmq21FY2nw)
 + [拼图？我掐指一算，发现事情没那么简单！](https://mp.weixin.qq.com/s/V1UiR98K6vy00PwkgkTmvA)
++ [进化树和基因组结构](https://mp.weixin.qq.com/s/rm6x7-sWnvQ9qRn26eP2nQ)
 
 
 ### 直播
@@ -368,11 +373,12 @@ output:
 + [画图？倒不如手绘吧！](https://mp.weixin.qq.com/s/xPIDevw6R_XDSaxi6W5gtA)
 + [我不会用illustrator，只会用ppt！](https://mp.weixin.qq.com/s/nHT3vkwNfQknr6CLF0cUDQ)
 + [在剑桥的那一周，我写了一个R包](https://mp.weixin.qq.com/s/5Xq7CB9McTeiEdEIyY3GQA)
-+ [美化base plot](https://mp.weixin.qq.com/s/zqcJ0VgRbR8oVnY0SFisUg)
 + [听说你还不会画动图](https://mp.weixin.qq.com/s/rzEoUjWZXvdPYjwEzNfYOw)
 + [爆炸型的饼图](https://mp.weixin.qq.com/s/fj9lMJvQov72i__0vj-_DA)
 + [把你用R画的图（base或ggplot2）变成ASCII纯文本](https://mp.weixin.qq.com/s/fZqi6wuI7G1kDeUSa_HzPA)
 + [不想画彩图了，用纹理填充吧，省掉好多版面费](https://mp.weixin.qq.com/s/PuPXR4L-DyAs3fOB1n64Vg)
++ [cowplot乃旧爱，patchwork是新欢](https://mp.weixin.qq.com/s/Y_uK2H7ketmFpJMvkNUNtg)
++ [base plot出的图，富有时代感！这个包，让你穿越回9102！](https://mp.weixin.qq.com/s/qRX3q4krMu6l_UCT8O8ldQ)
 
 
 ## ggplot2
