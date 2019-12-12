@@ -703,7 +703,6 @@ output:
 
 #### 图片分享
 
-+ [base X ggplot2](https://mp.weixin.qq.com/s/4Qh_fqoA0sF3K98CmM933g)
 + [ESS: Emacs Speak Statistics](https://mp.weixin.qq.com/s/JtchObu8u_zFSei4o8eArA)
 + [page not found](https://mp.weixin.qq.com/s/HxoT0zsTmnn_sJYYg2D2cQ)
 + [科研压力](https://mp.weixin.qq.com/s/Batt9wTEEtt-ov8aTZZxCw)
