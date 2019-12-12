@@ -7,7 +7,8 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-12-11 -->
+<!-- 更新于2019-12-12 -->
+
 
 
 
@@ -54,7 +55,7 @@ output:
 + [功能注释后如何做富集分](https://mp.weixin.qq.com/s/mgbPMxY1sEZqV4Hoead82Q)
 + [msigdf + clusterProfiler全方位支持MSigDb](https://mp.weixin.qq.com/s/AamfRz0BUENCi_1P0P-Ruw)
 + [做学术终究是看脸...](https://mp.weixin.qq.com/s/aBjfWTLsZLcEI8nhnF2WoQ)
-+ [富集分析事后丸：过滤数据](https://mp.weixin.qq.com/s/odA-xzI4lCMDmyZxtEMwFg)
++ [富集分析事后丸：过滤数据](https://mp.weixin.qq.com/s/k-Lbpz8M616Wo0St0TQ-2Q)
 + [软件虽然好用，但没发在高影响因子的期刊上，给你们丢脸了！](https://mp.weixin.qq.com/s/F7z8r-5KssWV9YTV98tYxQ)
 + [你那一串差异基因，到底是在哪个组织、哪种细胞中富集？](https://mp.weixin.qq.com/s/LavOUrZmba10GNaYvLo85A)
 + [听说富集分析有个概念叫Fold Enrichment](https://mp.weixin.qq.com/s/KwJVJHd7Sh6c7inVtAsYeg)
