@@ -7,9 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-12-12 -->
-
-
+<!-- 更新于2019-12-17 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -82,6 +80,9 @@ output:
 + [利用KEGG数据库进行ID转换](https://mp.weixin.qq.com/s/DorErMerquLuQpUOU0YJew)
 + [KEGG Module Enrichment Analysis](https://mp.weixin.qq.com/s/EflAAyEobEvicbXgWqyb5A)
 + [如何利用clusterProfiler获取最新的KEGG和基因对应关系](https://mp.weixin.qq.com/s/AIGGi01w6thK41MYNobrRg)
++ [KEGG数据本地化，再也不用担心网络问题了](https://mp.weixin.qq.com/s/k24iLQ9mFFBtEDxQoQGE4g)
++ [多物种批量下载KEGG数据并做成KEGG.db包](https://mp.weixin.qq.com/s/PwrdQAkG3pTlwMB6Mj8wXQ)
+
 
 ## DOSE
 
@@ -343,6 +344,8 @@ output:
 + [grid版小蛋糕](https://mp.weixin.qq.com/s/rlhlNwlojvUQTukRwl717A)
 + [学习base也很重要](https://mp.weixin.qq.com/s/uvq2JwPY5UN_3fzw_6VXfw)
 + [你有一封来自data.table作者的邀请信，请查看！](https://mp.weixin.qq.com/s/cWwAg7q0XzV3-p_P7kCpHA)
++ [R画图已入门，怎样进阶？](https://mp.weixin.qq.com/s/zjFVDs_kG6wjGGzHpZM6cA)
+
 
 
 ### Introduction to Scientific Programming and Simulation Using R
