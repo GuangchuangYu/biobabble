@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2019-12-17 -->
+<!-- 更新于2020-01-01 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -241,6 +241,7 @@ output:
 + [用R画meme ;)](https://mp.weixin.qq.com/s/jDXjkrkq_YVhW-Z5Vx2-Fg)
 + [使用外部字体画meme](https://mp.weixin.qq.com/s/4b8enFCd_lLt278Ddxp3rg)
 + [扪心自问，meme几何？](https://mp.weixin.qq.com/s/BPY4dPFrrNrDKccMvax07w)
++ [答: 扪心自问，meme几何？](https://mp.weixin.qq.com/s/83qi67DYcy8H9xY3TlIXbQ)
 
 ## meshes
 
@@ -382,6 +383,7 @@ output:
 + [不想画彩图了，用纹理填充吧，省掉好多版面费](https://mp.weixin.qq.com/s/PuPXR4L-DyAs3fOB1n64Vg)
 + [cowplot乃旧爱，patchwork是新欢](https://mp.weixin.qq.com/s/Y_uK2H7ketmFpJMvkNUNtg)
 + [base plot出的图，富有时代感！这个包，让你穿越回9102！](https://mp.weixin.qq.com/s/qRX3q4krMu6l_UCT8O8ldQ)
++ [ggfree:试图让你摆脱ggplot2](https://mp.weixin.qq.com/s/HuYjyUsPoB94DhoHPCTC-A)
 
 
 ## ggplot2
@@ -415,6 +417,8 @@ output:
 + [听说你还不会画热图](https://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
 + [ggplot2改legend title](https://mp.weixin.qq.com/s/9Yj7vet_zz9BcINx_auKbQ)
 + [ggplot2小技巧-数据没有，函数倒是有一个](https://mp.weixin.qq.com/s/isw1ZHkYIMseF6dK9CXA5g)
++ [我为什么是个ggpubr黑？](https://mp.weixin.qq.com/s/ePFxXyT30ECaVwPWbMU1JQ)
++ [用ggplot2来画带有对角线的热图。](https://mp.weixin.qq.com/s/xSk-3A7TRDA9dEGIYrBQ-g)
 
 
 ### ggplot2扩展
@@ -668,6 +672,7 @@ output:
 + [听说你找不到公众号的入口了！](https://mp.weixin.qq.com/s/u8-BP7SL--iQKIh149Y3LA)
 + [2017年每月阅读量最高的文章盘点](https://mp.weixin.qq.com/s/oPiq4mlLJsDGrIyRMMvSpA)
 + [2018年每月阅读量最高的文章盘点](https://mp.weixin.qq.com/s/Iccp5bPyXtm6kCTWc84Q2Q)
++ [2019年每月精选](https://mp.weixin.qq.com/s/q8zTcY3Qka_QOD7J2z4SZA)
 
 
 
