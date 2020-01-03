@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-01-01 -->
+<!-- 更新于2020-01-03 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -202,16 +202,16 @@ output:
 + [plotly: 交互式探索进化树](https://mp.weixin.qq.com/s/a0XHr8Vfr49tEBYZWoRBxA)
 + [ggnetworx：让ggtree支持phylogenetic networks](https://mp.weixin.qq.com/s/YytLpKKkTqqpcrJJLFOhjg)
 + [ggtree买家秀](https://mp.weixin.qq.com/s/W9UI9doKKeq8YhbcA0N-_A)
-+ [多个热图，多种配色，还要分开画图例？](https://mp.weixin.qq.com/s/ZZLeTeWX3TvXuHe5sICgRg)
 + [ggplot2 - 更改分面的相对宽度](https://mp.weixin.qq.com/s/72UHjAQTRXuHzoeWUc-ccA)
 + [听说你想画好几颗树在一起](https://mp.weixin.qq.com/s/Hx9fI-JaMN7gY_vElQiQKg)
 + [倒不如画一些渐变色的线条吧](https://mp.weixin.qq.com/s/0WGS6b11F1Ul0ZkceKYOvQ)
 + [python的世界里没有这么好的工具！](https://mp.weixin.qq.com/s/zops2EyAdJsLtBcGcxa3ZQ)
-+ [连续型和离散型数据一起画热图，外加分开配色和图例](https://mp.weixin.qq.com/s/dvblHzdHMwqkxoExoXaW2Q)
 + [风儿啊，它吹乱了我的头发](https://mp.weixin.qq.com/s/iUUyXtJG3Fj3uPfvfHmdQA)
 + [ggtree在线书](https://mp.weixin.qq.com/s/NwYXAxhAQNW0Xmq21FY2nw)
 + [拼图？我掐指一算，发现事情没那么简单！](https://mp.weixin.qq.com/s/V1UiR98K6vy00PwkgkTmvA)
 + [进化树和基因组结构](https://mp.weixin.qq.com/s/rm6x7-sWnvQ9qRn26eP2nQ)
+
+
 
 
 ### 直播
@@ -325,7 +325,6 @@ output:
 + [逼着老狗学新把戏](https://mp.weixin.qq.com/s/qoOJCP4U50qZ5XfgQCq2kQ)
 + [R-3.5.0发布，又该升级了](https://mp.weixin.qq.com/s/tCIXW6H9v-PbMoPubbqzZQ)
 + [Windows用户如何无痛升级R](https://mp.weixin.qq.com/s/6_L6mlWpEkESIwrToG5Iug)
-+ [一个更好用的pheatmap](https://mp.weixin.qq.com/s/NaUQ5KhRRN8cx4v798w9Qg)
 + [不用biocLite安装Bioconductor包](https://mp.weixin.qq.com/s/xi2XPsHVsXsMijvbox90ew)
 + [如何用bioconductor进行注释](https://mp.weixin.qq.com/s/tT225Z1yiopUtXibwuuaJQ)
 + [Bioconductor的注释包太旧怎么办？自己做呀](https://mp.weixin.qq.com/s/GsLN0xPcZ7_4yfgPFzexCA)
@@ -412,13 +411,11 @@ output:
 + [论一张ggplot图是怎样炼成的 - 从小白都会画到逼格十足是如何一步步产生的？](https://mp.weixin.qq.com/s/nXaoaN7u43gOLAvYPsiVQw)
 + [用散点可视化一个矩阵](https://mp.weixin.qq.com/s/0Zn6xUbvwLp039EungxX6w)
 + [ggplot2给选定的分面加背景](https://mp.weixin.qq.com/s/tSOR68y7F0CCkAV6pUoV8Q)
-+ [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
 + [同一数据多变量分组的boxplot?](https://mp.weixin.qq.com/s/jegI1wWc7DJzrM7mQfz77Q)
-+ [听说你还不会画热图](https://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
 + [ggplot2改legend title](https://mp.weixin.qq.com/s/9Yj7vet_zz9BcINx_auKbQ)
 + [ggplot2小技巧-数据没有，函数倒是有一个](https://mp.weixin.qq.com/s/isw1ZHkYIMseF6dK9CXA5g)
 + [我为什么是个ggpubr黑？](https://mp.weixin.qq.com/s/ePFxXyT30ECaVwPWbMU1JQ)
-+ [用ggplot2来画带有对角线的热图。](https://mp.weixin.qq.com/s/xSk-3A7TRDA9dEGIYrBQ-g)
+
 
 
 ### ggplot2扩展
@@ -434,6 +431,18 @@ output:
 + [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
 + [ggtext: ggplot2支持富文本](https://mp.weixin.qq.com/s/EmGOfytnc4051UgeVgi-pQ)
 + [ggVennDiagram 诞生记](https://mp.weixin.qq.com/s/peNWKC5m7EWEv6w3m4rsIA)
+
+## 热图专辑
+
++ [听说你还不会画热图](https://mp.weixin.qq.com/s/Xhi_ZkrEzUVdnCu7ECBS4w)
++ [多个热图，多种配色，还要分开画图例？](https://mp.weixin.qq.com/s/ZZLeTeWX3TvXuHe5sICgRg)
++ [连续型和离散型数据一起画热图，外加分开配色和图例](https://mp.weixin.qq.com/s/dvblHzdHMwqkxoExoXaW2Q)
++ [不同数据集画出的热图，用同样的颜色区间上色?](https://mp.weixin.qq.com/s/yVLgGQQi0CQ9Q9UfIKl5aA)
++ [一个更好用的pheatmap](https://mp.weixin.qq.com/s/NaUQ5KhRRN8cx4v798w9Qg)
++ [用ggplot2来画带有对角线的热图。](https://mp.weixin.qq.com/s/xSk-3A7TRDA9dEGIYrBQ-g)
++ [看Y叔的R包，写自己的图层。](https://mp.weixin.qq.com/s/oayD6rlM8ISaocIogSvjKA)
++ [视频教学-小白也能点点鼠标画出对角线热图 ](https://mp.weixin.qq.com/s/IXXLL1itPsNMiim5vg2_1A)
+
 
 
 ----
