@@ -146,7 +146,7 @@ output:
 
 + [130岁了，祝你生快](https://mp.weixin.qq.com/s/Iqcqo5YTy1qmXdsuIrlrYQ)
 + [画个小圈圈](https://mp.weixin.qq.com/s/8kqTVSDjuHpivGaim6ukNg)
-+ [（翻）云（覆）雨图](https://mp.weixin.qq.com/s/kd-WbPXPrg6K2RFNydK-mQ)
+
 
 
 ## ggplotify
@@ -587,7 +587,6 @@ output:
 
 + [金银岛航线](https://mp.weixin.qq.com/s/NP9ejR8V4aMaZqa6F_oBgw)
 + [利用多边形估计Pi值](https://mp.weixin.qq.com/s/lIs3cEtZkG1D__dm2lKnbg)
-+ [斐波那契数列](https://mp.weixin.qq.com/s/41i4MJrcYyOl4OeqKLWi8A)
 + [Neumann的随机数生成器](https://mp.weixin.qq.com/s/4Co80GcDtHyWCEcjpdbSrw)
 + [Linear Congruential Generator](https://mp.weixin.qq.com/s/fSt2yb8PJHV13hnF6httfQ)
 + [手上握有多少幸运票？](https://mp.weixin.qq.com/s/-EEtpS5RlY0lmg6pz9w7kA)
