@@ -7,10 +7,11 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-01-03 -->
+<!-- 更新于2020-01-17 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
+
 
 
 ## ChIPseeker
@@ -198,6 +199,7 @@ output:
 + [取子集画图](https://mp.weixin.qq.com/s/JXpakSKqPPRHhcyQQVdoGA)
 + [Y叔不想养蛙，只想养你！](https://mp.weixin.qq.com/s/S5K9HwgCC2LtUJsnKBx0Yg)
 + [用图片注释进化树](https://mp.weixin.qq.com/s/BV-8HtiZC-XSHUVAwiS7Vw)
++ [当生物女博士遇到小学二年级语文作业](https://mp.weixin.qq.com/s/BJjy28aru_l40v-jdPnSPA)
 + [identify: 交互式操作进化树](https://mp.weixin.qq.com/s/PIns29a9pwrUSK6kWpUBIw)
 + [plotly: 交互式探索进化树](https://mp.weixin.qq.com/s/a0XHr8Vfr49tEBYZWoRBxA)
 + [ggnetworx：让ggtree支持phylogenetic networks](https://mp.weixin.qq.com/s/YytLpKKkTqqpcrJJLFOhjg)
@@ -314,6 +316,7 @@ output:
 + [你所不知道的，R的N种打开方式](https://mp.weixin.qq.com/s/BsEm76Eq9_tbw3myobD_SA)
 + [radian: 用python写的，号称21世纪的R终端](https://mp.weixin.qq.com/s/Kc_01u_4PmOcdJGLjNoeLA)
 + [VSCode里愉快地使用R](https://mp.weixin.qq.com/s/oSZlH-HZQ3uPKSmNmD_5Yg)
++ [忘掉Rstudio，来用VSCode愉快地进行R远程开发](https://mp.weixin.qq.com/s/rVTIGd17KgNLtvJE_9BijA)
 + [R kernel in Jupyter notebook 3](https://mp.weixin.qq.com/s/gabXNyiCPHfQwx7L4tsJVQ)
 + [R的全新IDE](https://mp.weixin.qq.com/s/qCSOMHCs_7x-3uuQR8t9RA)
 + [遇到这样的坑，那是相当的无助！](https://mp.weixin.qq.com/s/sPACvhg0jGvJX8aui9pxyw)
@@ -383,6 +386,7 @@ output:
 + [cowplot乃旧爱，patchwork是新欢](https://mp.weixin.qq.com/s/Y_uK2H7ketmFpJMvkNUNtg)
 + [base plot出的图，富有时代感！这个包，让你穿越回9102！](https://mp.weixin.qq.com/s/qRX3q4krMu6l_UCT8O8ldQ)
 + [ggfree:试图让你摆脱ggplot2](https://mp.weixin.qq.com/s/HuYjyUsPoB94DhoHPCTC-A)
++ [跑了R代码，文章不会写，怎么破？](https://mp.weixin.qq.com/s/FnZTcAaLR3CvWMYoGeYW9A)
 
 
 ## ggplot2
@@ -418,6 +422,7 @@ output:
 
 
 
+
 ### ggplot2扩展
 
 + [ggupset -- ggplot2版本的upset plot](https://mp.weixin.qq.com/s/1flaDEd3WzSNHpXZ228g6g)
@@ -431,6 +436,8 @@ output:
 + [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
 + [ggtext: ggplot2支持富文本](https://mp.weixin.qq.com/s/EmGOfytnc4051UgeVgi-pQ)
 + [ggVennDiagram 诞生记](https://mp.weixin.qq.com/s/peNWKC5m7EWEv6w3m4rsIA)
++ [（翻）云（覆）雨图](https://mp.weixin.qq.com/s/NGkVxHBM3DmFN17ckzdhZg)
+
 
 ## 热图专辑
 
@@ -442,7 +449,9 @@ output:
 + [用ggplot2来画带有对角线的热图。](https://mp.weixin.qq.com/s/xSk-3A7TRDA9dEGIYrBQ-g)
 + [看Y叔的R包，写自己的图层。](https://mp.weixin.qq.com/s/oayD6rlM8ISaocIogSvjKA)
 + [视频教学-小白也能点点鼠标画出对角线热图 ](https://mp.weixin.qq.com/s/IXXLL1itPsNMiim5vg2_1A)
-
++ [complexHeatmap版本的对角线热图](https://mp.weixin.qq.com/s/34WRZRBVPHUNRLlzNH2nzw)
++ [诹图——ggmatrix](https://mp.weixin.qq.com/s/5KImJ_EZrLhSFx8sx_IunA)
++ [base plot版本的对角线热图](https://mp.weixin.qq.com/s/clQ7mL0telO2QQJTVCGRsg)
 
 
 ----
@@ -554,6 +563,7 @@ output:
 + [ydict：命令行在线中英文词典](https://mp.weixin.qq.com/s/dSXYO4lIrf8EowGiwmBEIw)
 + [一条相见恨晚的指令](https://mp.weixin.qq.com/s/0LNCDGqT_-OgHiR583TgAw)
 + [手机上愉快地写代码](https://mp.weixin.qq.com/s/k3cLa7i84vOKQUozdDSVsg)
++ [vimTermPipe - 在vim中发送代码到终端执行](https://mp.weixin.qq.com/s/UDLgkwEGndgkm7MX0KigFA)
 
 
 
