@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-01-17 -->
+<!-- 更新于2020-01-25 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -229,6 +229,8 @@ output:
 + [GOSemSim：GO语义相似性度量](https://mp.weixin.qq.com/s/FTzgf1JHXAhDta2u-cDksQ)
 + [基因或蛋白之间，谁是谁的死党？](https://mp.weixin.qq.com/s/_Wt_GmC8yjcvEdXBNRUQTw)
 + [GOSemSim又高被引了！](https://mp.weixin.qq.com/s/eMxxAp-fd24kzTcVALU3Qg)
++ [一章书发表：GO语义相似性度量](https://mp.weixin.qq.com/s/HpVN2pghaIn4NZpLbpAz8Q)
+
 
 ## hexSticker
 
@@ -652,6 +654,8 @@ output:
 + [喂，分区表，你的节操掉地上了！](https://mp.weixin.qq.com/s/d3Pzn6WvSduD9FBqDCD88w)
 + [基佬的屁股和科学家的屎，之间的共同点是...!](https://mp.weixin.qq.com/s/WhKAxxTNla8W5npIJ809cQ)
 + [粪便上的头像，悄咪咪地不见了！](https://mp.weixin.qq.com/s/OFZkQBOHuonMk1kF2UZkvw)
++ [也谈谈武汉新病毒序列的版权](https://mp.weixin.qq.com/s/1ydwtadMAIyjqNxWwgO7wA)
+
 
 ### 抄袭系列
 
