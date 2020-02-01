@@ -7,11 +7,10 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-01-25 -->
+<!-- 更新于2020-02-01 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
-
 
 
 ## ChIPseeker
@@ -54,13 +53,13 @@ output:
 + [功能注释后如何做富集分](https://mp.weixin.qq.com/s/mgbPMxY1sEZqV4Hoead82Q)
 + [msigdf + clusterProfiler全方位支持MSigDb](https://mp.weixin.qq.com/s/AamfRz0BUENCi_1P0P-Ruw)
 + [做学术终究是看脸...](https://mp.weixin.qq.com/s/aBjfWTLsZLcEI8nhnF2WoQ)
-+ [富集分析事后丸：过滤数据](https://mp.weixin.qq.com/s/k-Lbpz8M616Wo0St0TQ-2Q)
 + [软件虽然好用，但没发在高影响因子的期刊上，给你们丢脸了！](https://mp.weixin.qq.com/s/F7z8r-5KssWV9YTV98tYxQ)
 + [你那一串差异基因，到底是在哪个组织、哪种细胞中富集？](https://mp.weixin.qq.com/s/LavOUrZmba10GNaYvLo85A)
 + [听说富集分析有个概念叫Fold Enrichment](https://mp.weixin.qq.com/s/KwJVJHd7Sh6c7inVtAsYeg)
 + [拟南芥富集分析](https://mp.weixin.qq.com/s/R_l8o-Grat2ozbzrvcqGyg)
 + [clusterProfiler.dplyr：用dplyr操作富集分析结果](https://mp.weixin.qq.com/s/79hReZKa-aKiJB77ca1GHw)
-
++ [clusterProfiler事后丸: 转换ID为SYMBO](https://mp.weixin.qq.com/s/tSoCY75vD3dOporbOWU3kA)
++ [富集分析事后丸：过滤数据](https://mp.weixin.qq.com/s/k-Lbpz8M616Wo0St0TQ-2Q)
 
 ### GO
 
@@ -455,6 +454,11 @@ output:
 + [诹图——ggmatrix](https://mp.weixin.qq.com/s/5KImJ_EZrLhSFx8sx_IunA)
 + [base plot版本的对角线热图](https://mp.weixin.qq.com/s/clQ7mL0telO2QQJTVCGRsg)
 
+## 地图专辑
+
++ [用R画疫情地图第一波](https://mp.weixin.qq.com/s/4Ksgq4FTuLwx5Yprmki_dQ)
++ [用R画疫情地图第二波](https://mp.weixin.qq.com/s/dj29X8fEDkMrzTDhfV_1hA)
+
 
 ----
 
@@ -540,7 +544,7 @@ output:
 + [Kopernio: 快速一键下文献](https://mp.weixin.qq.com/s/IbfI3C8--soC2H9HzyZgAA)
 + [sci-hub合法的可能性](https://mp.weixin.qq.com/s/kN9kdOh1B1fYLytRtVlRqQ)
 + [一个刷屏的所谓「文献数据库」，都是我十年前玩剩下的！](https://mp.weixin.qq.com/s/H1pyuyk5fm2Cc5FAUDeq1A)
-+ [sci-hub 8周年](https://mp.weixin.qq.com/s/1AkFg7kPSpjQUX0LjpyIfw)
++ [利用scihub自动下载文章的R函数](https://mp.weixin.qq.com/s/v0fhxGVEoyYDBrwlIc80yw)
 
 ## 操作系统
 
@@ -626,6 +630,7 @@ output:
 + [听说我的包用的人还挺多！](https://mp.weixin.qq.com/s/-Tx7-sAGuWX5kE3G-2v3pw)
 + [没想到挤进第一页](https://mp.weixin.qq.com/s/T71hwAnfi1XrUbl5nRHEng)
 + [国庆去哪玩？办公室里写课件！！！](https://mp.weixin.qq.com/s/c8rkR_ZhYfvlMUugLvWMNQ)
++ [文章发表：画最好看的核型图](https://mp.weixin.qq.com/s/j6Yk6hIJ3UWPpeUU75nMvA)
 
 
 ## 硕博士的那点事
