@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-02-01 -->
+<!-- 更新于2020-02-06 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -389,7 +389,6 @@ output:
 + [ggfree:试图让你摆脱ggplot2](https://mp.weixin.qq.com/s/HuYjyUsPoB94DhoHPCTC-A)
 + [跑了R代码，文章不会写，怎么破？](https://mp.weixin.qq.com/s/FnZTcAaLR3CvWMYoGeYW9A)
 
-
 ## ggplot2
 
 + [Use ggplot2](https://mp.weixin.qq.com/s/oLgpTGdQgcka-OD757_3lA)
@@ -454,10 +453,11 @@ output:
 + [诹图——ggmatrix](https://mp.weixin.qq.com/s/5KImJ_EZrLhSFx8sx_IunA)
 + [base plot版本的对角线热图](https://mp.weixin.qq.com/s/clQ7mL0telO2QQJTVCGRsg)
 
-## 地图专辑
+## 武汉肺炎 nCov2019
 
-+ [用R画疫情地图第一波](https://mp.weixin.qq.com/s/4Ksgq4FTuLwx5Yprmki_dQ)
-+ [用R画疫情地图第二波](https://mp.weixin.qq.com/s/dj29X8fEDkMrzTDhfV_1hA)
++ [检索疫情数据的R包来了](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
++ [各省市的疫情历史数据来了！](https://mp.weixin.qq.com/s/lrQWGKj-mReWrxfi_4Sw9A)
++ [疫情监测的shinyApp来了！](https://mp.weixin.qq.com/s/qB90iHeasG8N_ky_mt-aNg)
 
 
 ----
