@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-02-06 -->
+<!-- 更新于2020-02-11 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -457,7 +457,11 @@ output:
 
 + [检索疫情数据的R包来了](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
 + [各省市的疫情历史数据来了！](https://mp.weixin.qq.com/s/lrQWGKj-mReWrxfi_4Sw9A)
++ [疫情地图全搞定，小白都会画！](https://mp.weixin.qq.com/s/bPXdOGFzFK5dWLTEOEJB3g)
 + [疫情监测的shinyApp来了！](https://mp.weixin.qq.com/s/qB90iHeasG8N_ky_mt-aNg)
++ [用Dash做一个新冠疫情监测仪表板（dashboard）](https://mp.weixin.qq.com/s/CpX4snQON-sMoRMbkvQbQg)
++ [一个监测各省市新冠状病毒疫情的网站](https://mp.weixin.qq.com/s/pu51SwA5xknWDhVNtFuW7w)
+
 
 
 ----
