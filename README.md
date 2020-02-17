@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-02-11 -->
+<!-- 更新于2020-02-17 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -457,7 +457,7 @@ output:
 
 + [检索疫情数据的R包来了](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
 + [各省市的疫情历史数据来了！](https://mp.weixin.qq.com/s/lrQWGKj-mReWrxfi_4Sw9A)
-+ [疫情地图全搞定，小白都会画！](https://mp.weixin.qq.com/s/bPXdOGFzFK5dWLTEOEJB3g)
++ [一次搞定所有的疫情地图](https://mp.weixin.qq.com/s/iWyOvOoLDl2q9VCUEDY52A)
 + [疫情监测的shinyApp来了！](https://mp.weixin.qq.com/s/qB90iHeasG8N_ky_mt-aNg)
 + [用Dash做一个新冠疫情监测仪表板（dashboard）](https://mp.weixin.qq.com/s/CpX4snQON-sMoRMbkvQbQg)
 + [一个监测各省市新冠状病毒疫情的网站](https://mp.weixin.qq.com/s/pu51SwA5xknWDhVNtFuW7w)
@@ -664,6 +664,7 @@ output:
 + [基佬的屁股和科学家的屎，之间的共同点是...!](https://mp.weixin.qq.com/s/WhKAxxTNla8W5npIJ809cQ)
 + [粪便上的头像，悄咪咪地不见了！](https://mp.weixin.qq.com/s/OFZkQBOHuonMk1kF2UZkvw)
 + [也谈谈武汉新病毒序列的版权](https://mp.weixin.qq.com/s/1ydwtadMAIyjqNxWwgO7wA)
++ [那里有妹纸，那里就有猫](https://mp.weixin.qq.com/s/-hxeG55_bwGpOP8Ug8pMZA)
 
 
 ### 抄袭系列
@@ -682,29 +683,29 @@ output:
 + [贵圈真乱](https://mp.weixin.qq.com/s/f1wrZieBLFVq4eJznK3Ztw)
 
 
-## 公众号
+## biobabble公众号
 
 + [怀疑人生！我不欠你们钱，好吗？](https://mp.weixin.qq.com/s/vB7mJG9FQYXsYZh9Bcp0_g)
-+ [撒花，2万粉了](https://mp.weixin.qq.com/s/88ZbcemcaD9Z-7M_qQFiJA)
-+ [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
-+ [biobabble的作者们](https://mp.weixin.qq.com/s/B9V4BTYus0e_SLjhgRh6Sg)
++ [为我们的塑料友谊干杯](https://mp.weixin.qq.com/s/und9n9V4fNgUFAXxEtUf1w)
 + [为什么要开这个公众号](https://mp.weixin.qq.com/s/f-c5Q63SY166ZGzYCsqthA)
 + [关于《关于转载》](https://mp.weixin.qq.com/s/JuMoFfgbNSM2KFQ74KVw0Q)
 + [公众号「biobabble」是什么意思？](https://mp.weixin.qq.com/s/wpk7gCW4oxgmPaGf4NSOBg)
-+ [话题投票](https://mp.weixin.qq.com/s/5DMqX7bLsnvjj7KF4yIyVg)
 + [真爱是什么？](https://mp.weixin.qq.com/s/krcSjt6UTg1cIlFiBasbJw)
 + [爱要高声喊出来](https://mp.weixin.qq.com/s/Els_-ZxTSt71fPAMbVFCAg)
 + [谁是确认过眼神的人？](https://mp.weixin.qq.com/s/a1h3cIvNknqmQ2CRAc-iPA)
-+ [biobabble的2018](https://mp.weixin.qq.com/s/ZSblTOQXVzYqs11je3CPjQ)
 + [微信公众文 -- markdown一键排版](https://mp.weixin.qq.com/s/hAQ0OiObsCqa9jgKMuRPZw)
 + [公号狗的福音](https://mp.weixin.qq.com/s/SUwUL-RaeRRRQ7eRDeNQiw)
 + [这么巧啊，你也在研究那坨屎！](https://mp.weixin.qq.com/s/cX9Eliwpw5KaOMpof3LtWw)
 + [微信读书中阅读公众号](https://mp.weixin.qq.com/s/BegWCcI2s830eBp3zYgbWA)
 + [听说你找不到公众号的入口了！](https://mp.weixin.qq.com/s/u8-BP7SL--iQKIh149Y3LA)
++ [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
++ [撒花，2万粉了](https://mp.weixin.qq.com/s/88ZbcemcaD9Z-7M_qQFiJA)
 + [2017年每月阅读量最高的文章盘点](https://mp.weixin.qq.com/s/oPiq4mlLJsDGrIyRMMvSpA)
 + [2018年每月阅读量最高的文章盘点](https://mp.weixin.qq.com/s/Iccp5bPyXtm6kCTWc84Q2Q)
 + [2019年每月精选](https://mp.weixin.qq.com/s/q8zTcY3Qka_QOD7J2z4SZA)
-
++ [biobabble可以撩了！](https://mp.weixin.qq.com/s/L8XEV5qvaxRc-QP-L01trA)
++ [拥有名字的拿手菜：乱炖](https://mp.weixin.qq.com/s/xPrgRRHWxuYtloRBAb4YGA)
++ [新技能get√](https://mp.weixin.qq.com/s/KRvSvfvVdnBpptiFcBCYDA)
 
 
 
