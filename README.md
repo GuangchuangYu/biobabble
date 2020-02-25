@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-02-17 -->
+<!-- 更新于2020-02-25 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -163,7 +163,6 @@ output:
 ## ggtree
 
 
-+ [文章发表：两种方法在进化树上可视化数据](https://mp.weixin.qq.com/s/cgReDJJaelfK43MRoM6CYQ)
 + [Ask me anything about ggtree](https://mp.weixin.qq.com/s/IzSC1GnNPUwKdehhz-U8fQ)
 + [当年ggtree发布文，为整合数据而生！](https://mp.weixin.qq.com/s/4g2dPmm5ycTvbube4ujlgQ)
 + [ggtree无根树及注释](https://mp.weixin.qq.com/s/Jij3xQhvgsuZBH_g45MvvQ)
@@ -228,7 +227,6 @@ output:
 + [GOSemSim：GO语义相似性度量](https://mp.weixin.qq.com/s/FTzgf1JHXAhDta2u-cDksQ)
 + [基因或蛋白之间，谁是谁的死党？](https://mp.weixin.qq.com/s/_Wt_GmC8yjcvEdXBNRUQTw)
 + [GOSemSim又高被引了！](https://mp.weixin.qq.com/s/eMxxAp-fd24kzTcVALU3Qg)
-+ [一章书发表：GO语义相似性度量](https://mp.weixin.qq.com/s/HpVN2pghaIn4NZpLbpAz8Q)
 
 
 ## hexSticker
@@ -249,7 +247,6 @@ output:
 ## meshes
 
 + [using meshes for MeSH Enrichment Analysis](https://mp.weixin.qq.com/s/NzXxCZBYXuZm7eEC_QRJyQ)
-+ [文章发表：Using meshes for MeSH term enrichment and semantic analyses](https://mp.weixin.qq.com/s/uRs3F659wpopNRBirsxcOg)
 
 ## ReactomePA
 
@@ -419,6 +416,7 @@ output:
 + [ggplot2改legend title](https://mp.weixin.qq.com/s/9Yj7vet_zz9BcINx_auKbQ)
 + [ggplot2小技巧-数据没有，函数倒是有一个](https://mp.weixin.qq.com/s/isw1ZHkYIMseF6dK9CXA5g)
 + [我为什么是个ggpubr黑？](https://mp.weixin.qq.com/s/ePFxXyT30ECaVwPWbMU1JQ)
++ [活人不能让尿憋死，自动出来的图例不好调？自己徒手画一个！](https://mp.weixin.qq.com/s/Jqdqvs_vWj7zuDdEFzjOFA)
 
 
 
@@ -458,10 +456,10 @@ output:
 + [检索疫情数据的R包来了](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
 + [各省市的疫情历史数据来了！](https://mp.weixin.qq.com/s/lrQWGKj-mReWrxfi_4Sw9A)
 + [一次搞定所有的疫情地图](https://mp.weixin.qq.com/s/iWyOvOoLDl2q9VCUEDY52A)
++ [nCov2019：历史数据实现自动更新](https://mp.weixin.qq.com/s/wTqeSVWZCH3YP8YzAj20EQ)
 + [疫情监测的shinyApp来了！](https://mp.weixin.qq.com/s/qB90iHeasG8N_ky_mt-aNg)
 + [用Dash做一个新冠疫情监测仪表板（dashboard）](https://mp.weixin.qq.com/s/CpX4snQON-sMoRMbkvQbQg)
 + [一个监测各省市新冠状病毒疫情的网站](https://mp.weixin.qq.com/s/pu51SwA5xknWDhVNtFuW7w)
-
 
 
 ----
@@ -550,7 +548,7 @@ output:
 + [一个刷屏的所谓「文献数据库」，都是我十年前玩剩下的！](https://mp.weixin.qq.com/s/H1pyuyk5fm2Cc5FAUDeq1A)
 + [利用scihub自动下载文章的R函数](https://mp.weixin.qq.com/s/v0fhxGVEoyYDBrwlIc80yw)
 
-## 操作系统
+## 操作系统及软件
 
 + [十年前截屏](https://mp.weixin.qq.com/s/ifCbAKYdABMid4yP4IOUgA)
 + [软件更新大法](https://mp.weixin.qq.com/s/UK1fj0PSRqVj_kcwdn-4qA)
@@ -584,6 +582,8 @@ output:
 + [arch之打第一个AUR包](https://mp.weixin.qq.com/s/amyClhLs2CoQpaA5d0JfGw)
 + [记一次搞死linux又医活的经历](https://mp.weixin.qq.com/s/p5b9Xex3PLwu2CKpBCTVCw)
 + [MacBook安装Arch的一些设置](https://mp.weixin.qq.com/s/4uJcu7Q8-989BTdJXPmlCQ)
++ [Arch滚起来一时爽，滚坏了泪两行](https://mp.weixin.qq.com/s/snDgYV0oVWvFLX5EmAoovA)
+
 
 ### Mac
 
@@ -634,7 +634,14 @@ output:
 + [听说我的包用的人还挺多！](https://mp.weixin.qq.com/s/-Tx7-sAGuWX5kE3G-2v3pw)
 + [没想到挤进第一页](https://mp.weixin.qq.com/s/T71hwAnfi1XrUbl5nRHEng)
 + [国庆去哪玩？办公室里写课件！！！](https://mp.weixin.qq.com/s/c8rkR_ZhYfvlMUugLvWMNQ)
+
+## 发表论文
+
++ [文章发表：Using meshes for MeSH term enrichment and semantic analyses](https://mp.weixin.qq.com/s/uRs3F659wpopNRBirsxcOg)
++ [文章发表：两种方法在进化树上可视化数据](https://mp.weixin.qq.com/s/cgReDJJaelfK43MRoM6CYQ)
 + [文章发表：画最好看的核型图](https://mp.weixin.qq.com/s/j6Yk6hIJ3UWPpeUU75nMvA)
++ [文章发表：解决进化树和数据的输入和输出](https://mp.weixin.qq.com/s/1GPwswTWdnqJKGGTvXsH2Q)
++ [一章书发表：GO语义相似性度量](https://mp.weixin.qq.com/s/HpVN2pghaIn4NZpLbpAz8Q)
 
 
 ## 硕博士的那点事
@@ -649,6 +656,7 @@ output:
 + [你还在愁毕业？隔壁实验室的小哥从网上抄了几十行代码打了个R包，发了SCI，毕业了！](https://mp.weixin.qq.com/s/Kj54P49Dwaav7jrkOG-BBw)
 + [港校申请指北：考研考博失利之后的另一选择](https://mp.weixin.qq.com/s/uTF4YhBGVYMT-LPxQVP53Q)
 + [画个圈，影响因子6.6](https://mp.weixin.qq.com/s/F7ecVGbm7O1kbeq94FDXXQ)
++ [站在PhD的大门前](https://mp.weixin.qq.com/s/EZFIF6J0O7x1vTLXWpxbpQ)
 
 
 ## 学术八卦
