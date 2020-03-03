@@ -7,7 +7,7 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-02-25 -->
+<!-- 更新于2020-03-03 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -166,6 +166,7 @@ output:
 + [Ask me anything about ggtree](https://mp.weixin.qq.com/s/IzSC1GnNPUwKdehhz-U8fQ)
 + [当年ggtree发布文，为整合数据而生！](https://mp.weixin.qq.com/s/4g2dPmm5ycTvbube4ujlgQ)
 + [ggtree无根树及注释](https://mp.weixin.qq.com/s/Jij3xQhvgsuZBH_g45MvvQ)
++ [无根树中加入枝长图例](https://mp.weixin.qq.com/s/kvCuKjHA9qZ6qL-7R855dg)
 + [ggtree画根分支](https://mp.weixin.qq.com/s/ObJlBkOTKIYjYpHTww6cIw)
 + [phylip树格式](https://mp.weixin.qq.com/s/NcS-yOsRxHJZStiZ7SPw4g)
 + [ggtree版本的plotTree](https://mp.weixin.qq.com/s/JM7m7fQSxW7SdRVyGhuxTA)
@@ -457,6 +458,7 @@ output:
 + [各省市的疫情历史数据来了！](https://mp.weixin.qq.com/s/lrQWGKj-mReWrxfi_4Sw9A)
 + [一次搞定所有的疫情地图](https://mp.weixin.qq.com/s/iWyOvOoLDl2q9VCUEDY52A)
 + [nCov2019：历史数据实现自动更新](https://mp.weixin.qq.com/s/wTqeSVWZCH3YP8YzAj20EQ)
++ [nCov2019英文版，歪果仁也能用这次武汉疫情的数据了](https://mp.weixin.qq.com/s/u50yCKAGJfrcXgvHHhLbsA)
 + [疫情监测的shinyApp来了！](https://mp.weixin.qq.com/s/qB90iHeasG8N_ky_mt-aNg)
 + [用Dash做一个新冠疫情监测仪表板（dashboard）](https://mp.weixin.qq.com/s/CpX4snQON-sMoRMbkvQbQg)
 + [一个监测各省市新冠状病毒疫情的网站](https://mp.weixin.qq.com/s/pu51SwA5xknWDhVNtFuW7w)
@@ -478,6 +480,7 @@ output:
 + [一文解决RT-PCR的统计分析](https://mp.weixin.qq.com/s/URpIfwGLCzm30Ao9-_StJA)
 + [不靠谱的富集软件太多了！](https://mp.weixin.qq.com/s/MO9V7fTGQSWBmRSvtUOGRA)
 + [Bootstrap Method](https://mp.weixin.qq.com/s/w7OsbFIssQref7hmoCGkcA)
++ [做为朋友，还是要劝说生物狗们不用柱状图！](https://mp.weixin.qq.com/s/NzC4DsJPaUTNGVxMzhKJVw)
 
 
 ## 生物
@@ -572,8 +575,7 @@ output:
 + [一条相见恨晚的指令](https://mp.weixin.qq.com/s/0LNCDGqT_-OgHiR583TgAw)
 + [手机上愉快地写代码](https://mp.weixin.qq.com/s/k3cLa7i84vOKQUozdDSVsg)
 + [vimTermPipe - 在vim中发送代码到终端执行](https://mp.weixin.qq.com/s/UDLgkwEGndgkm7MX0KigFA)
-
-
++ [安装Amos](https://mp.weixin.qq.com/s/XP2j6dIHA84cCTQCLgxkkg)
 
 ### Arch Linux
 
@@ -714,6 +716,7 @@ output:
 + [biobabble可以撩了！](https://mp.weixin.qq.com/s/L8XEV5qvaxRc-QP-L01trA)
 + [拥有名字的拿手菜：乱炖](https://mp.weixin.qq.com/s/xPrgRRHWxuYtloRBAb4YGA)
 + [新技能get√](https://mp.weixin.qq.com/s/KRvSvfvVdnBpptiFcBCYDA)
++ [biobabble：一个可以查影响因子和分区的公众号](https://mp.weixin.qq.com/s/l8FwaeP9nTuaPfH0TfKyPQ)
 
 
 
