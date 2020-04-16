@@ -7,11 +7,10 @@ output:
     theme: cayman
 ---
 
-<!-- 更新于2020-03-03 -->
+<!-- 更新于2020-03-16 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
-
 
 ## ChIPseeker
 
@@ -37,7 +36,7 @@ output:
 
 ## clusterProfiler
 
-+ [富集分析](https://mp.weixin.qq.com/s/PVJj2o86MT_FvacOi_NGhA)
+
 + [clusterProfiler for enrichment analysis](https://mp.weixin.qq.com/s/ScwaofLd_ybfECYjL1dGow)
 + [why clusterProfiler fails](https://mp.weixin.qq.com/s/bxzWQa02b_mXSi5Y0vSCiA)
 + [为什么画出来的点比指定的数目要多？](https://mp.weixin.qq.com/s/VW4LvtQqXumrs6SMvwGgvQ)
@@ -57,7 +56,6 @@ output:
 + [你那一串差异基因，到底是在哪个组织、哪种细胞中富集？](https://mp.weixin.qq.com/s/LavOUrZmba10GNaYvLo85A)
 + [听说富集分析有个概念叫Fold Enrichment](https://mp.weixin.qq.com/s/KwJVJHd7Sh6c7inVtAsYeg)
 + [拟南芥富集分析](https://mp.weixin.qq.com/s/R_l8o-Grat2ozbzrvcqGyg)
-+ [clusterProfiler.dplyr：用dplyr操作富集分析结果](https://mp.weixin.qq.com/s/79hReZKa-aKiJB77ca1GHw)
 + [clusterProfiler事后丸: 转换ID为SYMBO](https://mp.weixin.qq.com/s/tSoCY75vD3dOporbOWU3kA)
 + [富集分析事后丸：过滤数据](https://mp.weixin.qq.com/s/k-Lbpz8M616Wo0St0TQ-2Q)
 
@@ -116,7 +114,7 @@ output:
 + [dotplot支持使用formula指定x轴变量](https://mp.weixin.qq.com/s/ZebT4OWDSIMoB6_ww2dYUg)
 + [一样的函数，不一样的upset](https://mp.weixin.qq.com/s/HkeFb8FLALnGdGPFt9MujA)
 + [cnetplot只标注部分节点的label](https://mp.weixin.qq.com/s/QryulFNPKe3SjrUy0NWeBw)
-
++ [多组数据富集分析结果可视化](https://mp.weixin.qq.com/s/HQTGgSppaGiDG62WvRm2zw)
 
 ## ggimage
 
@@ -346,6 +344,8 @@ output:
 + [学习base也很重要](https://mp.weixin.qq.com/s/uvq2JwPY5UN_3fzw_6VXfw)
 + [你有一封来自data.table作者的邀请信，请查看！](https://mp.weixin.qq.com/s/cWwAg7q0XzV3-p_P7kCpHA)
 + [R画图已入门，怎样进阶？](https://mp.weixin.qq.com/s/zjFVDs_kG6wjGGzHpZM6cA)
++ [你只有一个系统，却要在多个平台上测试你的R包](https://mp.weixin.qq.com/s/ilg81-ApE5YCup8Fk8hU6g)
++ [为了提交R包，我构建了个多版本的R开发环境](https://mp.weixin.qq.com/s/uRBvgbV8YPe92JY6t36Xug)
 
 
 
@@ -452,13 +452,18 @@ output:
 + [诹图——ggmatrix](https://mp.weixin.qq.com/s/5KImJ_EZrLhSFx8sx_IunA)
 + [base plot版本的对角线热图](https://mp.weixin.qq.com/s/clQ7mL0telO2QQJTVCGRsg)
 
-## 武汉肺炎 nCov2019
+## 新冠病毒 nCov2019
 
 + [检索疫情数据的R包来了](https://mp.weixin.qq.com/s/_0D8ENb-4lGm4UV16Ok28A)
 + [各省市的疫情历史数据来了！](https://mp.weixin.qq.com/s/lrQWGKj-mReWrxfi_4Sw9A)
 + [一次搞定所有的疫情地图](https://mp.weixin.qq.com/s/iWyOvOoLDl2q9VCUEDY52A)
 + [nCov2019：历史数据实现自动更新](https://mp.weixin.qq.com/s/wTqeSVWZCH3YP8YzAj20EQ)
 + [nCov2019英文版，歪果仁也能用这次武汉疫情的数据了](https://mp.weixin.qq.com/s/u50yCKAGJfrcXgvHHhLbsA)
++ [新冠全球历史数据来了](https://mp.weixin.qq.com/s/tTmd7IJt9U9en62Hl1kBnw)
++ [当病毒R包nCov-2019遇上动图gganimate](https://mp.weixin.qq.com/s/54cAS4jOJEJw3_SvRJUjDg)
++ [爆款风玫瑰图：新冠肺炎全球疫情形势](https://mp.weixin.qq.com/s/ZIZr9zmxVIqjlAFQdK-t7A)
++ [螺旋的疫情图](https://mp.weixin.qq.com/s/lY1TpDqrMce5fB0_GsTlgA)
++ [欧洲很方，一不小心都要「意大利」了](https://mp.weixin.qq.com/s/m1FW20a7RJUhZ7MISkPrrg)
 + [疫情监测的shinyApp来了！](https://mp.weixin.qq.com/s/qB90iHeasG8N_ky_mt-aNg)
 + [用Dash做一个新冠疫情监测仪表板（dashboard）](https://mp.weixin.qq.com/s/CpX4snQON-sMoRMbkvQbQg)
 + [一个监测各省市新冠状病毒疫情的网站](https://mp.weixin.qq.com/s/pu51SwA5xknWDhVNtFuW7w)
@@ -614,6 +619,8 @@ output:
 + [手上握有多少幸运票？](https://mp.weixin.qq.com/s/-EEtpS5RlY0lmg6pz9w7kA)
 + [斐波那契数列](https://mp.weixin.qq.com/s/7rldLwGWgyeBkfZVr-0KnA)
 + [二叉搜索求函数值](https://mp.weixin.qq.com/s/WsjdgnLryGYDbJ_AYv3yTg)
++ [用链表解决约瑟夫问题](https://mp.weixin.qq.com/s/dK5mgpfVS9H4AYs67fBV3g)
+
 
 
 ## Y叔生活篇
@@ -644,7 +651,7 @@ output:
 + [文章发表：画最好看的核型图](https://mp.weixin.qq.com/s/j6Yk6hIJ3UWPpeUU75nMvA)
 + [文章发表：解决进化树和数据的输入和输出](https://mp.weixin.qq.com/s/1GPwswTWdnqJKGGTvXsH2Q)
 + [一章书发表：GO语义相似性度量](https://mp.weixin.qq.com/s/HpVN2pghaIn4NZpLbpAz8Q)
-
++ [一章书发表：在树结构上展示数据](https://mp.weixin.qq.com/s/1oEkIcK7N1M12L-rU0yAQg)
 
 ## 硕博士的那点事
 
@@ -801,7 +808,6 @@ output:
 + [老板，我需要一部iPhone X来做科研！](https://mp.weixin.qq.com/s/4I08BkntXkGArOy4gscchg)
 + [一千个伤心的理由](https://mp.weixin.qq.com/s/UblSRGUOhNYTEMPc_mSdsg)
 + [轮到相思没处辞，眉间露一丝](https://mp.weixin.qq.com/s/lSkR9bCaAGRSy7vOfZq9vg)
-+ [没有金刚钻，揽不了瓷器活！](https://mp.weixin.qq.com/s/T_xL4wvKDHiwiv3123Tukg)
 + [不为无益之事 何以遣有涯之生](https://mp.weixin.qq.com/s/lmGOvgdc-aFUBCjOGnbW1Q)
 + [你所在的地区因为版权问题播放不了音乐怎么破？](https://mp.weixin.qq.com/s/br1hIhhsaVE4a43wyV1rFA)
 + [王八拳编程及其它](https://mp.weixin.qq.com/s/mK3_rX9VNflgh1w0JaYuxg)
@@ -811,4 +817,5 @@ output:
 + [996.ICU](https://mp.weixin.qq.com/s/tOncegeP791rD2t9PthsFw)
 + [520交出什么比较好？](https://mp.weixin.qq.com/s/Xh7TQD1hCoaJ6XoTAS2KNA)
 + [玩转office只需要这一招](https://mp.weixin.qq.com/s/_9VuXReY71E_B6Qh_y7Jcw)
++ [不上少儿编程课，生物妈在生活中训练编程思维](https://mp.weixin.qq.com/s/8ctRbfCZ268CLoo2l-IKaQ)
 
