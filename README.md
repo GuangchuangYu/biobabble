@@ -226,7 +226,6 @@ output:
 + [python的世界里没有这么好的工具！](https://mp.weixin.qq.com/s/zops2EyAdJsLtBcGcxa3ZQ)
 + [风儿啊，它吹乱了我的头发](https://mp.weixin.qq.com/s/iUUyXtJG3Fj3uPfvfHmdQA)
 + [ggtree在线书](https://mp.weixin.qq.com/s/NwYXAxhAQNW0Xmq21FY2nw)
-+ [拼图？我掐指一算，发现事情没那么简单！](https://mp.weixin.qq.com/s/V1UiR98K6vy00PwkgkTmvA)
 + [进化树和基因组结构](https://mp.weixin.qq.com/s/rm6x7-sWnvQ9qRn26eP2nQ)
 
 
@@ -788,12 +787,10 @@ output:
 + [关爱女科学家](https://mp.weixin.qq.com/s/xC1KuYW5OPZ_UqanPE-hwA)
 + [与导师的初次见面](https://mp.weixin.qq.com/s/zUvmSslH0PhMc5GuDDvMKA)
 + [相亲套路深](https://mp.weixin.qq.com/s/2InsDYabVHx0_VidrIDxag)
-+ [知道开头，猜不到结局](https://mp.weixin.qq.com/s/2KZBN2s7ImXfP-T4C8phFA)
 + [别人家的学生](https://mp.weixin.qq.com/s/VDiqo_TocpgmK0adzXeIgA)
 + [选导师要了解人品](https://mp.weixin.qq.com/s/y2fmNTsaarGpBvhEssVxZQ)
 + [今天放过论文，对自己好一点](https://mp.weixin.qq.com/s/b6hK6y-OWPw7EVOHo325Ig)
 + [老年博士生的悲哀](https://mp.weixin.qq.com/s/k7bAn_uacksuFiLZd1wB9g)
-+ [vroom](https://mp.weixin.qq.com/s/AcvEVX-GsmHu5aJAB3-WeQ)
 + [抄袭代码](https://mp.weixin.qq.com/s/ndvo4QA--ijmUFP_w7wo2w)
 + [抄出了版权](https://mp.weixin.qq.com/s/cSFccMwTrNQRSh6Mjk5RAA)
 + [excel大坑](https://mp.weixin.qq.com/s/apL3r5AbU2UCL5EShXixuA)
