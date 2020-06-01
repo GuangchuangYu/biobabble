@@ -3,6 +3,7 @@
 \docType{data}
 \name{DataSet}
 \alias{DataSet}
+\alias{family}
 \alias{lecture}
 \alias{mooncake}
 \alias{pumpkin}
