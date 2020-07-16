@@ -23,12 +23,12 @@ output:
 
 ## YuLab论文发表
 
-+ [文章发表：Using meshes for MeSH term enrichment and semantic analyses](https://mp.weixin.qq.com/s/uRs3F659wpopNRBirsxcOg)
-+ [文章发表：两种方法在进化树上可视化数据](https://mp.weixin.qq.com/s/cgReDJJaelfK43MRoM6CYQ)
-+ [文章发表：画最好看的核型图](https://mp.weixin.qq.com/s/j6Yk6hIJ3UWPpeUU75nMvA)
-+ [文章发表：解决进化树和数据的输入和输出](https://mp.weixin.qq.com/s/1GPwswTWdnqJKGGTvXsH2Q)
-+ [一章书发表：GO语义相似性度量](https://mp.weixin.qq.com/s/HpVN2pghaIn4NZpLbpAz8Q)
 + [一章书发表：在树结构上展示数据](https://mp.weixin.qq.com/s/1oEkIcK7N1M12L-rU0yAQg)
++ [一章书发表：GO语义相似性度量](https://mp.weixin.qq.com/s/HpVN2pghaIn4NZpLbpAz8Q)
++ [文章发表：解决进化树和数据的输入和输出](https://mp.weixin.qq.com/s/1GPwswTWdnqJKGGTvXsH2Q)
++ [文章发表：画最好看的核型图](https://mp.weixin.qq.com/s/j6Yk6hIJ3UWPpeUU75nMvA)
++ [文章发表：两种方法在进化树上可视化数据](https://mp.weixin.qq.com/s/cgReDJJaelfK43MRoM6CYQ)
++ [文章发表：Using meshes for MeSH term enrichment and semantic analyses](https://mp.weixin.qq.com/s/uRs3F659wpopNRBirsxcOg)
 
 
 ## ChIPseeker
@@ -364,7 +364,6 @@ output:
 + [R-3.6 -- set.seed](https://mp.weixin.qq.com/s/kmezZTCSa_F_Lx7f4a8ZTA)
 + [Linux下R出图转为PPT矢量图](https://mp.weixin.qq.com/s/8hiWaJmIJSmPYmJaZq0RPA)
 + [快上车，该学R了](https://mp.weixin.qq.com/s/3MTTrAREsUVb56zHGufL2A)
-+ [想学R快上车，什么时候都不晚](https://mp.weixin.qq.com/s/ddZCTCmy9hsaKaiAfnJeHg)
 + [windows用户, 截屏新手段](https://mp.weixin.qq.com/s/CP00v7HuclUcfJn2_aSplA)
 + [grid版小蛋糕](https://mp.weixin.qq.com/s/rlhlNwlojvUQTukRwl717A)
 + [学习base也很重要](https://mp.weixin.qq.com/s/uvq2JwPY5UN_3fzw_6VXfw)
