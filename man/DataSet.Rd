@@ -9,6 +9,7 @@
 \alias{pumpkin}
 \alias{apple}
 \alias{snowman}
+\alias{doctor}
 \alias{santa}
 \alias{ninja}
 \title{Datasets}

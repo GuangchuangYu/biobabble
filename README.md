@@ -373,7 +373,6 @@ output:
 + [R总给我惊喜](https://mp.weixin.qq.com/s/heUp2syJkljTZKBhNZVyLw)
 + [听说你R脚本中的数据丢了，图出不来！](https://mp.weixin.qq.com/s/-Q18LyTr9qY2nQdER9vvzA)
 + [逼着老狗学新把戏](https://mp.weixin.qq.com/s/qoOJCP4U50qZ5XfgQCq2kQ)
-+ [R-3.5.0发布，又该升级了](https://mp.weixin.qq.com/s/tCIXW6H9v-PbMoPubbqzZQ)
 + [Windows用户如何无痛升级R](https://mp.weixin.qq.com/s/6_L6mlWpEkESIwrToG5Iug)
 + [不用biocLite安装Bioconductor包](https://mp.weixin.qq.com/s/xi2XPsHVsXsMijvbox90ew)
 + [如何用bioconductor进行注释](https://mp.weixin.qq.com/s/tT225Z1yiopUtXibwuuaJQ)
