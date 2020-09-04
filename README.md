@@ -8,7 +8,7 @@ output:
 ---
 
 
-<!-- 更新于2020-07-22 -->
+<!-- 更新于2020-09-04 -->
 
 
 
@@ -33,6 +33,9 @@ output:
 
 + [关于多序列比对可视化，我们做了一个包](https://mp.weixin.qq.com/s/015kj5i8-A1HDyziXMHc2A)
 + [助力微生物组学分析--实验室新R包MicrobiotaProcess](https://mp.weixin.qq.com/s/iHcQpKs5Jo28Q_FiAzdTuw)
++ [aplot包：让你画出更复杂的图](https://mp.weixin.qq.com/s/XVl2MoOsT7pB1wNJmltoVw)
++ [你的页面还少了一点装逼的徽章](https://mp.weixin.qq.com/s/yCgV19vGLSlXvXScGuveUw)
++ [听说你装不了github的包？](https://mp.weixin.qq.com/s/Rk-BpU0PyASypGhuTujMQQ)
 
 
 ## 专辑汇总
@@ -92,6 +95,8 @@ output:
 + [富集分析事后丸：过滤数据](https://mp.weixin.qq.com/s/k-Lbpz8M616Wo0St0TQ-2Q)
 + [用dplyr动词操作富集分析结果](https://mp.weixin.qq.com/s/BbFe85U2qhqDpIA0KcW1Cg)
 + [clusterProfiler优化: 以更快的速度进行GO分析和GMT文件解析](https://mp.weixin.qq.com/s/-A1hYPhMnEjknbLfLDawOQ)
++ [使用clusterProfiler对非模式植物进行注释](https://mp.weixin.qq.com/s/Mr3YLoc_-Y1WeLKJku1TzQ)
+
 
 
 ### GO
@@ -229,6 +234,7 @@ output:
 + [facet_plot：加图层到特定分面，方法二](https://mp.weixin.qq.com/s/PnbasfW4HKILuZNdrLVX_g)
 + [facet_plot: 关联数据和进化树的通用方法](https://mp.weixin.qq.com/s/FlrnY9GeV5fHa6EZpZhTJA)
 + [facet_plot更改panel label](https://mp.weixin.qq.com/s/RC9TsEZRjflIZE15xpa0sg)
++ [同时让N颗树关联同一个数据集](https://mp.weixin.qq.com/s/LTK1tDPLEk8_BWEVB9kReQ)
 + [漫画版的进化树你见过吗？](https://mp.weixin.qq.com/s/P7yUFLwW4OLGBrPw05iQ_A)
 + [取子集画图](https://mp.weixin.qq.com/s/JXpakSKqPPRHhcyQQVdoGA)
 + [Y叔不想养蛙，只想养你！](https://mp.weixin.qq.com/s/S5K9HwgCC2LtUJsnKBx0Yg)
@@ -248,6 +254,7 @@ output:
 + [ggtree所支持的各种树的布局](https://mp.weixin.qq.com/s/E0MfgCFdMxJyrVqpmwNUgA)
 + [进化树上随意选几条边来上色](https://mp.weixin.qq.com/s/TssW_2exj54YYrgHro3dtg)
 + [进化树上随意选几条边，换线条类型！](https://mp.weixin.qq.com/s/FcigGbaRR2RKTTza7fWx1w)
++ [听说你想在系统发育树上随意加个点？](https://mp.weixin.qq.com/s/L1eNG-bGXQmHu3spQoINRg)
 
 
 ### ggtreeExtra
@@ -323,6 +330,8 @@ output:
 
 + [带你装逼带你飞，画图的文本打出阴影立体效果 ](https://mp.weixin.qq.com/s/eZAmqeKBsbvAj9AvrTZRQQ)
 + [制作meme的通用方式，来了解一下](https://mp.weixin.qq.com/s/ruihRJ5I20grzuTqO-Q1sA)
++ [让你的ggplot2坐标轴文本也出现阴影效果](https://mp.weixin.qq.com/s/5oScc7J7WTgBhOdd-h_3rQ)
+
 
 ## tidytree
 
@@ -439,6 +448,11 @@ output:
 + [base plot出的图，富有时代感！这个包，让你穿越回9102！](https://mp.weixin.qq.com/s/qRX3q4krMu6l_UCT8O8ldQ)
 + [ggfree:试图让你摆脱ggplot2](https://mp.weixin.qq.com/s/HuYjyUsPoB94DhoHPCTC-A)
 + [跑了R代码，文章不会写，怎么破？](https://mp.weixin.qq.com/s/FnZTcAaLR3CvWMYoGeYW9A)
++ [首发！决策曲线分析R包：ggDCA](https://mp.weixin.qq.com/s/dcN1BvmuSO7osWFPPq3pYg)
++ [flametree学习](https://mp.weixin.qq.com/s/Bjet7GaC-fsKiMVNEyf2Mg)
+
+
+
 
 ## ggplot2
 
@@ -707,6 +721,7 @@ output:
 + [没想到挤进第一页](https://mp.weixin.qq.com/s/T71hwAnfi1XrUbl5nRHEng)
 + [国庆去哪玩？办公室里写课件！！！](https://mp.weixin.qq.com/s/c8rkR_ZhYfvlMUugLvWMNQ)
 + [2020|南方医科大学基础医学院生物信息学专业招生宣传](https://mp.weixin.qq.com/s/rVcXSuPFZaM0qsy72DLqSw)
++ [为了忘却的纪念——我在港大把导师给炒了](https://mp.weixin.qq.com/s/fBdsrOtvX8UCMCXB9Uz7Ag)
 
 
 ## 硕博士的那点事
@@ -722,6 +737,7 @@ output:
 + [港校申请指北：考研考博失利之后的另一选择](https://mp.weixin.qq.com/s/uTF4YhBGVYMT-LPxQVP53Q)
 + [画个圈，影响因子6.6](https://mp.weixin.qq.com/s/F7ecVGbm7O1kbeq94FDXXQ)
 + [站在PhD的大门前](https://mp.weixin.qq.com/s/EZFIF6J0O7x1vTLXWpxbpQ)
++ [你怎么看：生信不就是按按键盘的事么？](https://mp.weixin.qq.com/s/ghtxV4WuMpzu_icz5JiKew)
 
 
 ## 学术八卦
@@ -780,6 +796,7 @@ output:
 + [biobabble：一个可以查影响因子和分区的公众号](https://mp.weixin.qq.com/s/l8FwaeP9nTuaPfH0TfKyPQ)
 + [2020最新版影响因子，科研股民们快来查跌涨](https://mp.weixin.qq.com/s/VCp2C1zQ66I1aO7iDHSCjg)
 + [听说有个公众号能查基因信息？我半信半疑地试了一下午！](https://mp.weixin.qq.com/s/QfKGkT-tFKqT-QM5C0mvJg)
++ [用《R数据科学》学习一套数据处理语法](https://mp.weixin.qq.com/s/ln0GcX4i6HXueHJOV7ElEQ)
 
 
 
@@ -799,6 +816,7 @@ output:
 + [画图要怎么学](https://mp.weixin.qq.com/s/sTONORtmDZY-9bhD0Dnq6Q)
 + [2020年已经过去了27.4%...](https://mp.weixin.qq.com/s/UbY2BguKj3TNULhvzAU5hQ)
 + [用R给高考学生送祝福吧](https://mp.weixin.qq.com/s/pnU3CH2T0FISCnsxeUQgQg)
++ [报读什么学校？R语言告诉你要跟随初心！](https://mp.weixin.qq.com/s/Nv3nr4UqdrzXSRb4ChE20w)
 
 
 
@@ -810,6 +828,7 @@ output:
 + [来自biobabble的中秋问候](https://mp.weixin.qq.com/s/z_ijHtDpjLbAyCzHn8bIkg)
 + [中秋画饼](https://mp.weixin.qq.com/s/DvWhBre4jMSteuZCSZF1uQ)
 + [南瓜节](https://mp.weixin.qq.com/s/06IjjRuKBhfX3OzfXFdtjg)
++ [医师节快乐！](https://mp.weixin.qq.com/s/uQ9xTUnDptDikl9vVfJQ9g)
 + [火鸡全家桶](https://mp.weixin.qq.com/s/Crd5VsNIsmIU0mtyOSgOgg)
 + [冬至快乐！](https://mp.weixin.qq.com/s/SfCHHLmLda6bjUSaaakOSg)
 + [圣诞快乐！](https://mp.weixin.qq.com/s/5IZgoORe7iniaEp8FlOmHA)
