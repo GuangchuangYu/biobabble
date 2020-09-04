@@ -718,7 +718,6 @@ output:
 + [那些我讲过的oral](https://mp.weixin.qq.com/s/gDF9Wn52aiCm82LrMlKQzg)
 + [剑桥膜拜大神记](https://mp.weixin.qq.com/s/4bk7XAxcjgbs2QwpS47PIQ)
 + [听说我的包用的人还挺多！](https://mp.weixin.qq.com/s/-Tx7-sAGuWX5kE3G-2v3pw)
-+ [没想到挤进第一页](https://mp.weixin.qq.com/s/T71hwAnfi1XrUbl5nRHEng)
 + [国庆去哪玩？办公室里写课件！！！](https://mp.weixin.qq.com/s/c8rkR_ZhYfvlMUugLvWMNQ)
 + [2020|南方医科大学基础医学院生物信息学专业招生宣传](https://mp.weixin.qq.com/s/rVcXSuPFZaM0qsy72DLqSw)
 + [为了忘却的纪念——我在港大把导师给炒了](https://mp.weixin.qq.com/s/fBdsrOtvX8UCMCXB9Uz7Ag)
