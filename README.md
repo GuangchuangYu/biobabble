@@ -623,11 +623,9 @@ output:
 
 + [sci-hub如果挂了，你还有神器下文献吗？](https://mp.weixin.qq.com/s/aaIby87LSQgxpvCAECFxkw)
 + [再不用担心打不开sci-hub了](https://mp.weixin.qq.com/s/5JGC1bcVZOmdaPxo_uXYYw)
-+ [2018最新可用的sci-hub镜像+桌面版程序](https://mp.weixin.qq.com/s/RK1CYEboiEDzapdHsiwEGg)
 + [独家：SciHub苹果桌面版](https://mp.weixin.qq.com/s/P3WhPkTrf2dUkzvOba3hlQ)
 + [关于scihub，一文就够了](https://mp.weixin.qq.com/s/6qmI0MI9vlwvxoXJuVl0sQ)
 + [一图告诉你sci-hub有多美好！](https://mp.weixin.qq.com/s/1Y0peNiRjh8WmGO1BJxvOQ)
-+ [Sci-Hub可用域名实时追踪](https://mp.weixin.qq.com/s/puPvCOQcOf7aG5ghY82XrQ)
 + [Kopernio: 快速一键下文献](https://mp.weixin.qq.com/s/IbfI3C8--soC2H9HzyZgAA)
 + [sci-hub合法的可能性](https://mp.weixin.qq.com/s/kN9kdOh1B1fYLytRtVlRqQ)
 + [一个刷屏的所谓「文献数据库」，都是我十年前玩剩下的！](https://mp.weixin.qq.com/s/H1pyuyk5fm2Cc5FAUDeq1A)
