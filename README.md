@@ -8,8 +8,7 @@ output:
 ---
 
 
-<!-- 更新于2020-09-04 -->
-
+<!-- 更新于2020-12-25 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
@@ -35,13 +34,8 @@ output:
 + [助力微生物组学分析--实验室新R包MicrobiotaProcess](https://mp.weixin.qq.com/s/iHcQpKs5Jo28Q_FiAzdTuw)
 + [aplot包：让你画出更复杂的图](https://mp.weixin.qq.com/s/XVl2MoOsT7pB1wNJmltoVw)
 + [你的页面还少了一点装逼的徽章](https://mp.weixin.qq.com/s/yCgV19vGLSlXvXScGuveUw)
-+ [听说你装不了github的包？](https://mp.weixin.qq.com/s/Rk-BpU0PyASypGhuTujMQQ)
++ [听说你装不了github的包？](https://mp.weixin.qq.com/s/TeW3SqD86-NmsvkfkKZE8w)
 
-
-## 专辑汇总
-
-+ [「新冠病毒」专辑](https://mp.weixin.qq.com/s/PTxwx-Y_7QM5U7TohvqYcQ)
-+ [「biobabble」专辑](https://mp.weixin.qq.com/s/RKYhD0Wai0iOseqEtKtYxA)
 
 ## aplot
 
@@ -96,7 +90,6 @@ output:
 + [用dplyr动词操作富集分析结果](https://mp.weixin.qq.com/s/BbFe85U2qhqDpIA0KcW1Cg)
 + [clusterProfiler优化: 以更快的速度进行GO分析和GMT文件解析](https://mp.weixin.qq.com/s/-A1hYPhMnEjknbLfLDawOQ) <!-- x -->
 + [使用clusterProfiler对非模式植物进行注释](https://mp.weixin.qq.com/s/Mr3YLoc_-Y1WeLKJku1TzQ)
-
 
 
 ### GO
@@ -156,6 +149,7 @@ output:
 + [cnetplot只标注部分节点的label](https://mp.weixin.qq.com/s/QryulFNPKe3SjrUy0NWeBw)
 + [多组数据富集分析结果可视化](https://mp.weixin.qq.com/s/HQTGgSppaGiDG62WvRm2zw)
 + [多出来的点是猴子变的吗？](https://mp.weixin.qq.com/s/pqjYnauI0xgUYcJ8o6pHlQ)
++ [所有人都在做富集，但没人在意它的结果](https://mp.weixin.qq.com/s/PplG8ljPqWkMtzXKNLoaTw)
 
 
 
@@ -180,6 +174,10 @@ output:
 + [让我们画个黑板报吧](https://mp.weixin.qq.com/s/1F3C-xt0n7wjdhSL0GEUqg)
 + [shit，拟合的残差这么大！](https://mp.weixin.qq.com/s/PXeo-FolKrEtnJCOhgr6kw)
 + [ggimage开始画不会变形的图了！](https://mp.weixin.qq.com/s/saKPEsA9GZXrCFQdHVxMUA)
++ [ggplot2版本的 --> 耗子尾汁](https://mp.weixin.qq.com/s/AE3wSYBHHNuleJlnJ-YzSg)
+
+
+
 
 
 
@@ -255,6 +253,15 @@ output:
 + [进化树上随意选几条边来上色](https://mp.weixin.qq.com/s/TssW_2exj54YYrgHro3dtg)
 + [进化树上随意选几条边，换线条类型！](https://mp.weixin.qq.com/s/FcigGbaRR2RKTTza7fWx1w)
 + [听说你想在系统发育树上随意加个点？](https://mp.weixin.qq.com/s/L1eNG-bGXQmHu3spQoINRg)
++ [这么多年了，终于有个故事可以讲](https://mp.weixin.qq.com/s/okDgKJgV8wr5xDMufOEihw)
++ [对ggplot2指定的分面，任性调整xlim和分面宽度！](https://mp.weixin.qq.com/s/ClGhvr_sJi-6-SN8hgRUyg)
++ [给不同的分面分别设置x label？](https://mp.weixin.qq.com/s/sIoXMP000HJGEgAalTCrWg)
++ [度量生物多样性](https://mp.weixin.qq.com/s/ntgUi0-AZOu5nbZHvSS9aQ)
++ [进化树与序列的距离矩阵](https://mp.weixin.qq.com/s/Vb9MBt419sO69UOPfEb0UQ)
++ [画两颗面对面的树，还要分别加注释！](https://mp.weixin.qq.com/s/jevqlyaf7c7zudQCAkylJQ)
++ [对进化树的分支长度做数据变换](https://mp.weixin.qq.com/s/rUgOI2uMjE_lK4ou9x2hUw)
++ [一个legend伪装成三个，服气！](https://mp.weixin.qq.com/s/OcTP0mU3LPraza-7EHmy2w)
++ [听说你想给线条画个边框？](https://mp.weixin.qq.com/s/Cq6e_ZBUgyZtxJOHiXkpZA)
 
 
 ### ggtreeExtra
@@ -407,6 +414,8 @@ output:
 + [R包安装之我的地盘我没权限](https://mp.weixin.qq.com/s/w1g7eIgom7glshGgcJzr1g)
 + [如何安装被CRAN删掉的R包](https://mp.weixin.qq.com/s/2EbD3rfWYRL70XHjcPbgFw)
 + [忘记awk吧，dplyr它不香吗？](https://mp.weixin.qq.com/s/TMbWHy8quSiBKkPmi22IjQ)
++ [R语言冷知识，为什么赋值要用<-](https://mp.weixin.qq.com/s/nXZBgogskN3FdacYD6M_gg)
++ [HOME不是你的家](https://mp.weixin.qq.com/s/OB6iltn-ehQSJ6Vs9X_D0g)
 
 
 
@@ -450,6 +459,12 @@ output:
 + [跑了R代码，文章不会写，怎么破？](https://mp.weixin.qq.com/s/FnZTcAaLR3CvWMYoGeYW9A)
 + [首发！决策曲线分析R包：ggDCA](https://mp.weixin.qq.com/s/dcN1BvmuSO7osWFPPq3pYg)
 + [flametree学习](https://mp.weixin.qq.com/s/Bjet7GaC-fsKiMVNEyf2Mg)
++ [可别再说base plot不能图形语法！](https://mp.weixin.qq.com/s/rfVLZEbLmSCSxkF8jioLzQ)
++ [听说你用的函数又撞名了？](https://mp.weixin.qq.com/s/oxElKitqQjwtD8HkpKk_JQ)
++ [彩图变轮廓，小朋友再不缺图片涂色了](https://mp.weixin.qq.com/s/dNXGvafqXYFWu9sNfvVxEw)
++ [拥有立体字效果的一大波火山图正在向你走来](https://mp.weixin.qq.com/s/Wwdupo32kZXmqyG2EBqqkw)
+
+
 
 
 
@@ -735,6 +750,11 @@ output:
 + [画个圈，影响因子6.6](https://mp.weixin.qq.com/s/F7ecVGbm7O1kbeq94FDXXQ)
 + [站在PhD的大门前](https://mp.weixin.qq.com/s/EZFIF6J0O7x1vTLXWpxbpQ)
 + [你怎么看：生信不就是按按键盘的事么？](https://mp.weixin.qq.com/s/ghtxV4WuMpzu_icz5JiKew)
++ [书读得太少，而想得太多](https://mp.weixin.qq.com/s/FTgbUFjJkPqNT-mXgfnX4Q)
++ [考研党不用学专业课吗？-之一](https://mp.weixin.qq.com/s/th12CzAbQ5xbGisuP0UvWg)
++ [考研党不用学专业课吗？-之二](https://mp.weixin.qq.com/s/ohW-ZICQMtja271qWfsuCg)
++ [转型：从实验到大数据](https://mp.weixin.qq.com/s/KqF67UGj-SB4XP-CJ5cqpQ)
+
 
 
 ## 学术八卦
@@ -829,6 +849,7 @@ output:
 + [火鸡全家桶](https://mp.weixin.qq.com/s/Crd5VsNIsmIU0mtyOSgOgg)
 + [冬至快乐！](https://mp.weixin.qq.com/s/SfCHHLmLda6bjUSaaakOSg)
 + [圣诞快乐！](https://mp.weixin.qq.com/s/5IZgoORe7iniaEp8FlOmHA)
++ [用ggplot2画个圣诞老人怎么样？](https://mp.weixin.qq.com/s/lKqSmovBXp81I_n7RaK_0g)
 
 
 #### 图片分享
