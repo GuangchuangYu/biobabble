@@ -131,7 +131,6 @@ output:
 ## emojifont
 
 + [看完此文, 你也能够大开脑洞, 上升逼格](https://mp.weixin.qq.com/s/EgGfpH_Efr0d6ApxXAkvZA)
-+ [emojifont包](https://mp.weixin.qq.com/s/2AKwdpxv7XwRukczMo8MwQ)
 + [画❤️装geek什么的，都弱爆了！](https://mp.weixin.qq.com/s/Y8IHd6X4f49irXvD_M7bNw)
 + [emojifont新功能（有视频哦）](https://mp.weixin.qq.com/s/ARxyTRpMs6OeCqOQPp9OwA)
 + [phylomoji：用emoji画进化树](https://mp.weixin.qq.com/s/JxcfuJVT1ySFPphYwSmYSQ)
@@ -715,7 +714,6 @@ output:
 
 ## Y叔生活篇
 
-+ [匆匆那年，如一场不真实的梦。](https://mp.weixin.qq.com/s/nTslUm7qy1bIFgntLtkNBg)
 + [我在MSnbase里做了什么？](https://mp.weixin.qq.com/s/9pS9w7tHhlV8zlqxd8jImA)
 + [来香港读博其实是被逼的](https://mp.weixin.qq.com/s/LzwSAYT7yyYTMrNnck9KCg)
 + [假期如何假装我们还在工作？](https://mp.weixin.qq.com/s/zt2Xkj_VBRPkzwl3dzfimw)
@@ -747,7 +745,6 @@ output:
 + [你弱你有理，我还惹不起](https://mp.weixin.qq.com/s/R2DyIqyNCWCS2_P4mDeFrw)
 + [你还在愁毕业？隔壁实验室的小哥从网上抄了几十行代码打了个R包，发了SCI，毕业了！](https://mp.weixin.qq.com/s/Kj54P49Dwaav7jrkOG-BBw)
 + [港校申请指北：考研考博失利之后的另一选择](https://mp.weixin.qq.com/s/uTF4YhBGVYMT-LPxQVP53Q)
-+ [画个圈，影响因子6.6](https://mp.weixin.qq.com/s/F7ecVGbm7O1kbeq94FDXXQ)
 + [站在PhD的大门前](https://mp.weixin.qq.com/s/EZFIF6J0O7x1vTLXWpxbpQ)
 + [你怎么看：生信不就是按按键盘的事么？](https://mp.weixin.qq.com/s/ghtxV4WuMpzu_icz5JiKew)
 + [书读得太少，而想得太多](https://mp.weixin.qq.com/s/FTgbUFjJkPqNT-mXgfnX4Q)
