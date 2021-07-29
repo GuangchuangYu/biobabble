@@ -8,10 +8,13 @@ output:
 ---
 
 
-<!-- 更新于2020-12-25 -->
+<!-- 更新于2021-07-30 -->
 
 
 公众号biobabble后台回复「目录」二字可以获取本目录。
+
+
+
 
 
 ## YuLab论文发表
@@ -20,6 +23,7 @@ output:
 [<img src="https://guangchuangyu.github.io/blog_images/biobabble-qrcode-1.png" alt="扫码关注biobabble公众号" align="right" height="200">](https://guangchuangyu.github.io/blog_images/biobabble-qrcode-1.png)
 
 
++ [「文章发表」-- 肿瘤免疫浸润分析](https://mp.weixin.qq.com/s/6VwzpxO6vbtCm5fqr-C9-Q)
 + [文章发表：绝经后骨质疏松患者的肠道菌群以及代谢组分析](https://mp.weixin.qq.com/s/r86_-SDSYxX7MDy0o-6rwA)
 + [一章书发表：在树结构上展示数据](https://mp.weixin.qq.com/s/1oEkIcK7N1M12L-rU0yAQg)
 + [一章书发表：GO语义相似性度量](https://mp.weixin.qq.com/s/HpVN2pghaIn4NZpLbpAz8Q)
@@ -35,11 +39,8 @@ output:
 + [aplot包：让你画出更复杂的图](https://mp.weixin.qq.com/s/XVl2MoOsT7pB1wNJmltoVw)
 + [你的页面还少了一点装逼的徽章](https://mp.weixin.qq.com/s/yCgV19vGLSlXvXScGuveUw)
 + [听说你装不了github的包？](https://mp.weixin.qq.com/s/TeW3SqD86-NmsvkfkKZE8w)
-
-
-## aplot
-
 + [拼图？我掐指一算，发现事情没那么简单！](https://mp.weixin.qq.com/s/eiP-QPMnbWHcs6FDzlEz3w)
++ [ggbreak：你们要的坐标轴截断，它来了](https://mp.weixin.qq.com/s/l98Pfk4xPykWWuIJs7katw)
 
 
 ## ChIPseeker
@@ -137,6 +138,9 @@ output:
 + [你所没见过的苹果](https://mp.weixin.qq.com/s/O4Uv6Opb57Kjr_OiurTHtA)
 + [画图讲故事](https://mp.weixin.qq.com/s/i9XVLjH-nP-R-ewbwvKpwQ)
 + [听说你也有 emojifont 的字体使用困惑](https://mp.weixin.qq.com/s/RWw9xdJb9WsbeZu3ohUI7A)
++ [点的形状太少？快用emoji来画图！](https://mp.weixin.qq.com/s/aW1iNubrG4C_zmMuO2yi4g)
+
+
 
 
 ## enrichplot
@@ -261,11 +265,15 @@ output:
 + [对进化树的分支长度做数据变换](https://mp.weixin.qq.com/s/rUgOI2uMjE_lK4ou9x2hUw)
 + [一个legend伪装成三个，服气！](https://mp.weixin.qq.com/s/OcTP0mU3LPraza-7EHmy2w)
 + [听说你想给线条画个边框？](https://mp.weixin.qq.com/s/Cq6e_ZBUgyZtxJOHiXkpZA)
++ [纯文本的进化树](https://mp.weixin.qq.com/s/inI7RtaFAg3g9oH3iwMLwg)
++ [用ggtree画思维导图，小白也能学会！](https://mp.weixin.qq.com/s/NArmAQJp5OPt_SEVGmGv8g)
+
 
 
 ### ggtreeExtra
 
 + [用图层叠加方法绘制环形进化树](https://mp.weixin.qq.com/s/Il8yZqUoBVCvND7U7HKxxA)
++ [用ggtreeExtra给进化树加热图](https://mp.weixin.qq.com/s/rhv7xLgrY1TlpfbC_riAvQ)
 
 
 ### 直播
@@ -358,7 +366,7 @@ output:
 ## yyplot
 
 + [Y叔的新玩意--yyplot](https://mp.weixin.qq.com/s/ne2AEUxmD7EDcWzh7i-jAQ)
-+ [一次解决ggplot2所有字体](https://mp.weixin.qq.com/s/yVAP09kfE0af79egYENBRA)
++ [一次解决ggplot2所有字体](https://mp.weixin.qq.com/s/z9UmacoLCk9TKTjE2Td20Q)
 + [映射变量给axis上色](https://mp.weixin.qq.com/s/1bJe7VPZ2qbBRSaONXvxKA)
 + [pubmed年度趋势，你的开题报告需要它！](https://mp.weixin.qq.com/s/YaDxF4ZUISWlUR_7bQnbSQ)
 + [ggplot扩展学习笔记--逐行解析Y叔的"geom_ord_ellipse.R"](https://mp.weixin.qq.com/s/_XH6u2hPv_JJi_MbGbeoHA)
@@ -415,6 +423,11 @@ output:
 + [忘记awk吧，dplyr它不香吗？](https://mp.weixin.qq.com/s/TMbWHy8quSiBKkPmi22IjQ)
 + [R语言冷知识，为什么赋值要用<-](https://mp.weixin.qq.com/s/nXZBgogskN3FdacYD6M_gg)
 + [HOME不是你的家](https://mp.weixin.qq.com/s/OB6iltn-ehQSJ6Vs9X_D0g)
++ [R选择速度最快的镜像](https://mp.weixin.qq.com/s/UJ3S2bFYASG9P4xBWDLQQg)
++ [RStudio中添加管道操作符|>快捷键](https://mp.weixin.qq.com/s/tPs3klG-EXMsQL0JHXNzDw)
++ [R小贴士](https://mp.weixin.qq.com/s/dB4iHVxYGRF5lAX-Y8XR4w)
++ [烂代码解读，学一学怎么写出让别人（可能还有自己）看不懂的代码](https://mp.weixin.qq.com/s/keXcMwVEFgJgEwmGG02hjQ)
+
 
 
 
@@ -462,9 +475,9 @@ output:
 + [听说你用的函数又撞名了？](https://mp.weixin.qq.com/s/oxElKitqQjwtD8HkpKk_JQ)
 + [彩图变轮廓，小朋友再不缺图片涂色了](https://mp.weixin.qq.com/s/dNXGvafqXYFWu9sNfvVxEw)
 + [拥有立体字效果的一大波火山图正在向你走来](https://mp.weixin.qq.com/s/Wwdupo32kZXmqyG2EBqqkw)
-
-
-
++ [在R中对分子结构进行3D可视化](https://mp.weixin.qq.com/s/lOfc6ZRFBI3EWoSgpd5guw)
++ [crosslink: 分组数据关联关系的网络可视化](https://mp.weixin.qq.com/s/trEsp_m_HrDsu_LlxM5low)
++ [听说你画图存为PDF多了一页白纸](https://mp.weixin.qq.com/s/7k8KRat3YVc2tk6TmY7QQg)
 
 
 
@@ -521,9 +534,11 @@ output:
 + [你画的图有水果的味道，让我咬一口好吗！](https://mp.weixin.qq.com/s/HBtReDrFUUf4Y0qPgQhvgg)
 + [ggtext: ggplot2支持富文本](https://mp.weixin.qq.com/s/EmGOfytnc4051UgeVgi-pQ)
 + [ggVennDiagram 诞生记](https://mp.weixin.qq.com/s/peNWKC5m7EWEv6w3m4rsIA)
++ [ggVennDiagram 的新生](https://mp.weixin.qq.com/s/6kDXPrJRyXab6HpVjq6JBw)
 + [（翻）云（覆）雨图](https://mp.weixin.qq.com/s/NGkVxHBM3DmFN17ckzdhZg)
 + [ggstar与ggsymbol的一些原理介绍](https://mp.weixin.qq.com/s/TSTmSYLOLMBt_dcaUTL2qQ)
 + [ggsymbol让点图样式更加丰富的R包](https://mp.weixin.qq.com/s/vTPtKThHcoYNGbSJDz6vYw)
++ [用ggplot2出GraphPad prism的图](https://mp.weixin.qq.com/s/lZWih1JHTwTaNSIO4S2WSg)
 
 ## 热图专辑
 
@@ -557,6 +572,9 @@ output:
 + [一个监测各省市新冠状病毒疫情的网站](https://mp.weixin.qq.com/s/pu51SwA5xknWDhVNtFuW7w)
 + [用shiny和echarts4r制作一个COVID-19的dashboard](https://mp.weixin.qq.com/s/GS4OsIvePo3O-6ltD1b9Qg)
 + [倒不如用R画个新冠病毒吧...](https://mp.weixin.qq.com/s/iD4OGIUquFLC2BV_EZTqxg)
++ [印度日增30万？吓得我赶紧画个图来看看！](https://mp.weixin.qq.com/s/4j4cMIyg9SvA2Qtnw5j4Dg)
+
+
 
 
 ----
@@ -645,6 +663,8 @@ output:
 + [一个刷屏的所谓「文献数据库」，都是我十年前玩剩下的！](https://mp.weixin.qq.com/s/H1pyuyk5fm2Cc5FAUDeq1A)
 + [利用scihub自动下载文章的R函数](https://mp.weixin.qq.com/s/v0fhxGVEoyYDBrwlIc80yw)
 
+
+
 ## 操作系统及软件
 
 + [十年前截屏](https://mp.weixin.qq.com/s/ifCbAKYdABMid4yP4IOUgA)
@@ -670,6 +690,10 @@ output:
 + [手机上愉快地写代码](https://mp.weixin.qq.com/s/k3cLa7i84vOKQUozdDSVsg)
 + [vimTermPipe - 在vim中发送代码到终端执行](https://mp.weixin.qq.com/s/UDLgkwEGndgkm7MX0KigFA)
 + [安装Amos](https://mp.weixin.qq.com/s/XP2j6dIHA84cCTQCLgxkkg)
++ [用高颜值的指令查看磁盘使用情况](https://mp.weixin.qq.com/s/6-YfyyWZBIX9rqazEyF1xg)
++ [终端录屏](https://mp.weixin.qq.com/s/zAmkr7AJQ5EILkWUObNsrQ)
++ [Linux已经30岁了](https://mp.weixin.qq.com/s/4Ma8f1qW7Cc1vg0DDFpFHA)
+
 
 ### Arch Linux
 
@@ -732,10 +756,13 @@ output:
 + [国庆去哪玩？办公室里写课件！！！](https://mp.weixin.qq.com/s/c8rkR_ZhYfvlMUugLvWMNQ)
 + [2020|南方医科大学基础医学院生物信息学专业招生宣传](https://mp.weixin.qq.com/s/rVcXSuPFZaM0qsy72DLqSw)
 + [为了忘却的纪念——我在港大把导师给炒了](https://mp.weixin.qq.com/s/fBdsrOtvX8UCMCXB9Uz7Ag)
++ [我招的是博士后啊，不是迷途羔羊！](https://mp.weixin.qq.com/s/Ez_4b6w1IA79ljARx58cUQ)
++ [YuLab招博后，多组学整合方向](https://mp.weixin.qq.com/s/R9HxSDoBd-DjRYaOs24haA)
 
 
 ## 硕博士的那点事
 
++ [听说你的文章也被吐槽英文差？](https://mp.weixin.qq.com/s/yaeg8AsNEGSC2yXacSIltQ)
 + [博士版2048，不服来战！](https://mp.weixin.qq.com/s/Y5becN7t5LqMC3mcBbar_w)
 + [滚吧，骚年](https://mp.weixin.qq.com/s/j7AI-5gIwitiJgk1nePZhw)
 + [扫盲贴：博士学位知多少](https://mp.weixin.qq.com/s/-5-UC2QgtadwWrd4wRK_lw)
@@ -745,13 +772,16 @@ output:
 + [你弱你有理，我还惹不起](https://mp.weixin.qq.com/s/R2DyIqyNCWCS2_P4mDeFrw)
 + [你还在愁毕业？隔壁实验室的小哥从网上抄了几十行代码打了个R包，发了SCI，毕业了！](https://mp.weixin.qq.com/s/Kj54P49Dwaav7jrkOG-BBw)
 + [港校申请指北：考研考博失利之后的另一选择](https://mp.weixin.qq.com/s/uTF4YhBGVYMT-LPxQVP53Q)
++ [​本科生如何加入实验室/老司机的实验室入伙指南](https://mp.weixin.qq.com/s/od7-fasNjJu3fHqBhktCCw)
 + [站在PhD的大门前](https://mp.weixin.qq.com/s/EZFIF6J0O7x1vTLXWpxbpQ)
 + [你怎么看：生信不就是按按键盘的事么？](https://mp.weixin.qq.com/s/ghtxV4WuMpzu_icz5JiKew)
 + [书读得太少，而想得太多](https://mp.weixin.qq.com/s/FTgbUFjJkPqNT-mXgfnX4Q)
 + [考研党不用学专业课吗？-之一](https://mp.weixin.qq.com/s/th12CzAbQ5xbGisuP0UvWg)
 + [考研党不用学专业课吗？-之二](https://mp.weixin.qq.com/s/ohW-ZICQMtja271qWfsuCg)
 + [转型：从实验到大数据](https://mp.weixin.qq.com/s/KqF67UGj-SB4XP-CJ5cqpQ)
-
++ [查找文献中你可能会用到的小脚本](https://mp.weixin.qq.com/s/tdIOxBHeMU3FBbJ0xVgMtA)
++ [你还在愁毕业？隔壁小哥的300行R脚本，发了SCI，毕业了！](https://mp.weixin.qq.com/s/2XeJ5Q-nmRx-CeSEYV-bdQ)
++ [考研之后呢？别想着去浪，该联系导师，搞毕业设计了](https://mp.weixin.qq.com/s/48veD9jabWSIl93yA2aCkw)
 
 
 ## 学术八卦
@@ -801,6 +831,7 @@ output:
 + [这么巧啊，你也在研究那坨屎！](https://mp.weixin.qq.com/s/cX9Eliwpw5KaOMpof3LtWw)
 + [撒花，1万粉了](https://mp.weixin.qq.com/s/aNYOAdWl9QZGYomreRWZnw)
 + [撒花，2万粉了](https://mp.weixin.qq.com/s/88ZbcemcaD9Z-7M_qQFiJA)
++ [涨得好慢，终于5万粉](https://mp.weixin.qq.com/s/5E7e1qRsC0hAo1Xp9PBxgQ)
 + [2017年每月阅读量最高的文章盘点](https://mp.weixin.qq.com/s/oPiq4mlLJsDGrIyRMMvSpA)
 + [2018年每月阅读量最高的文章盘点](https://mp.weixin.qq.com/s/Iccp5bPyXtm6kCTWc84Q2Q)
 + [2019年每月精选](https://mp.weixin.qq.com/s/q8zTcY3Qka_QOD7J2z4SZA)
@@ -808,7 +839,7 @@ output:
 + [拥有名字的拿手菜：乱炖](https://mp.weixin.qq.com/s/xPrgRRHWxuYtloRBAb4YGA)
 + [新技能get√](https://mp.weixin.qq.com/s/KRvSvfvVdnBpptiFcBCYDA)
 + [biobabble：一个可以查影响因子和分区的公众号](https://mp.weixin.qq.com/s/l8FwaeP9nTuaPfH0TfKyPQ)
-+ [2020最新版影响因子，科研股民们快来查跌涨](https://mp.weixin.qq.com/s/VCp2C1zQ66I1aO7iDHSCjg)
++ [2020年影响因子，科研股民们快来查跌涨](https://mp.weixin.qq.com/s/VytE7XgSr3nlRpUoXmAuUQ)
 + [听说有个公众号能查基因信息？我半信半疑地试了一下午！](https://mp.weixin.qq.com/s/QfKGkT-tFKqT-QM5C0mvJg)
 + [用《R数据科学》学习一套数据处理语法](https://mp.weixin.qq.com/s/ln0GcX4i6HXueHJOV7ElEQ)
 
@@ -837,6 +868,8 @@ output:
 
 #### biobabble节日问候
 
++ [新年快乐](https://mp.weixin.qq.com/s/l2966UuSTgoX-Wipc3nKYg)
++ [妇女节快乐](https://mp.weixin.qq.com/s/AhGT7i94H8DDxgniy1eOqg)
 + [劳动节快乐！](https://mp.weixin.qq.com/s/vRwypLzzPhZDCPxiqYx61g)
 + [听说今天是儿童节](https://mp.weixin.qq.com/s/6EdfxYm1A1V5pW48e16Stg)
 + [来自biobabble的中秋问候](https://mp.weixin.qq.com/s/z_ijHtDpjLbAyCzHn8bIkg)
@@ -870,6 +903,8 @@ output:
 + [clusterProfiler通用模式](https://mp.weixin.qq.com/s/o4HrfwnpiDyTJ2BqhmhIjg)
 + [带学生是一件很伤脑筋的事情…](https://mp.weixin.qq.com/s/JHBGdnUu858wjoL4--pQ5g)
 + [nokia壁纸](https://mp.weixin.qq.com/s/0PR8PGa0HIqz8Cj4QW0OfA)
++ [geom_function](https://mp.weixin.qq.com/s/bRjtKhpJrikDS1zKmiJrUg)
++ [深夜改试卷的青椒，我想哭...](https://mp.weixin.qq.com/s/tG1AoaXAVIB6LmNdiLDSQg)
 
 
 
