@@ -35,6 +35,7 @@ output:
 ## YuLab软件开发
 
 + [关于多序列比对可视化，我们做了一个包](https://mp.weixin.qq.com/s/015kj5i8-A1HDyziXMHc2A)
++ [DNA序列重组可视化方法](https://mp.weixin.qq.com/s/snvS1aJGtKnfaIkAdy5Y-g)
 + [助力微生物组学分析--实验室新R包MicrobiotaProcess](https://mp.weixin.qq.com/s/iHcQpKs5Jo28Q_FiAzdTuw)
 + [aplot包：让你画出更复杂的图](https://mp.weixin.qq.com/s/XVl2MoOsT7pB1wNJmltoVw)
 + [你的页面还少了一点装逼的徽章](https://mp.weixin.qq.com/s/yCgV19vGLSlXvXScGuveUw)
@@ -336,7 +337,7 @@ output:
 
 ## seqcombo
 
-+ [DNA序列重组可视化方法](https://mp.weixin.qq.com/s/snvS1aJGtKnfaIkAdy5Y-g)
+
 + [seqcombo画地图的需求？](https://mp.weixin.qq.com/s/utt5b-Wn2giEUtQjvkdiUw)
 
 
