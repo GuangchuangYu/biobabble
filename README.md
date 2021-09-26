@@ -68,7 +68,6 @@ output:
 ## clusterProfiler
 
 
-+ [clusterProfiler for enrichment analysis](https://mp.weixin.qq.com/s/ScwaofLd_ybfECYjL1dGow)
 + [why clusterProfiler fails](https://mp.weixin.qq.com/s/bxzWQa02b_mXSi5Y0vSCiA)
 + [为什么画出来的点比指定的数目要多？](https://mp.weixin.qq.com/s/VW4LvtQqXumrs6SMvwGgvQ)
 + [DAVID分析结果转为enrichResult](https://mp.weixin.qq.com/s/lRhKPow1YTixpdq_fxMN0w)
